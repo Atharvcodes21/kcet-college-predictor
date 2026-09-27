@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KCET Smart Predictor | Option Entry Advisor</title>
+    <meta name="description" content="Check your KCET college eligibility using real cutoff data. Multi-course support with 5 years of historical data.">
+    <link rel="stylesheet" href="css/style.css?v=1.2">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Animated background particles -->
+    <div class="bg-particles" aria-hidden="true">
+        <div class="particle p1"></div>
+        <div class="particle p2"></div>
+        <div class="particle p3"></div>
+        <div class="particle p4"></div>
+    </div>
+
+    <div class="container">
+        <header>
+            <div class="logo-badge">KCET</div>
+            <h1>Smart Option Entry Predictor</h1>
+            <p class="subtitle">Real cutoff data &bull; Multi-course matching &bull; Instant eligibility check</p>
+        </header>
+
+        <main class="main-content">
+            <section class="form-section">
+                <div class="section-title">
+                    <span class="section-icon">&#9881;</span>
+                    Your Details
+                </div>
+
+                <form id="prediction-form">
+                    <div class="input-group">
+                        <label for="rank">KCET Rank</label>
+                        <input type="number" id="rank" name="rank" required min="1" placeholder="e.g. 5000">
+                    </div>
+
+                    <div class="input-group">
+                        <label for="category">Category</label>
+                        <select id="category" name="category" required>
+                            <option value="">Select Category</option>
+                            <option value="GM">General Merit (GM)</option>
+                            <option value="Cat-1">Category 1 (Cat-1)</option>
+                            <option value="2A">2A</option>
+                            <option value="2B">2B</option>
+                            <option value="3A">3A</option>
+                            <option value="3B">3B</option>
+                            <option value="SC">SC</option>
+                            <option value="ST">ST</option>
+                        </select>
+                    </div>
+
+                    <div class="input-group">
+                        <label>Preferred Courses <span class="label-hint">(select multiple)</span></label>
+                        <div class="multi-select-wrapper" id="multi-select-wrapper">
+                            <div class="selected-tags" id="selected-tags"></div>
+                            <input type="text" id="course-search" class="course-search" placeholder="Type to search & add courses..." autocomplete="off">
+                            <div id="course-dropdown" class="search-dropdown"></div>
+                        </div>
+                    </div>
+
+                    <div class="checkbox-row">
+                        <label class="checkbox-label" for="is_hk_region">
+                            <input type="checkbox" id="is_hk_region" name="is_hk_region">
+                            <span class="custom-checkbox"></span>
+                            Hyderabad-Karnataka (371J)
+                        </label>
+
+                        <label class="checkbox-label" for="is_rural">
+                            <input type="checkbox" id="is_rural" name="is_rural">
+                            <span class="custom-checkbox"></span>
+                            Rural Quota
+                        </label>
+
+                        <label class="checkbox-label" for="is_kannada">
+                            <input type="checkbox" id="is_kannada" name="is_kannada">
+                            <span class="custom-checkbox"></span>
+                            Kannada Medium
+                        </label>
+                    </div>
+
+                    <button type="submit" class="submit-btn" id="submit-btn">
+                        <span class="btn-text">Check My Eligibility</span>
+                        <span class="btn-icon">&#10148;</span>
+                    </button>
+                </form>
+
+                <div class="data-badge" id="data-badge" style="display:none;">
+                    <span class="badge-dot"></span>
+                    Using <strong id="data-year"></strong> cutoff data &bull; <strong id="college-count"></strong> colleges
+                </div>
+            </section>
+
+            <section class="results-section" id="results-section">
+                <!-- Results injected by JS -->
+                <div class="placeholder-state">
+                    <div class="placeholder-icon">&#127891;</div>
+                    <div class="placeholder-text">Enter your details to check eligibility</div>
+                    <div class="placeholder-sub">Select multiple courses to compare across all colleges</div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Disclaimer: This tool is for educational analysis only. Final allotments are determined by KEA.</p>
+        </footer>
+    </div>
+    <script src="js/app.js?v=1.2"></script>
+</body>
+</html>

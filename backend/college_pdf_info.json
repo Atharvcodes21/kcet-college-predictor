@@ -1,0 +1,1854 @@
+{
+  "E001 - UVCE": {
+    "cet_code": "E001",
+    "full_name": "Univesity of Visvesvaraya College of Engineering (A State Autonomous Public University on IIT Model) K R Circle, Bangalore"
+  },
+  "E002 - Govt.S K S J T Institute of Engineering": {
+    "cet_code": "E002",
+    "full_name": "Govt.S K S J T Institute of Engineering, Bangalore AMBEDKAR VEEDHI, K.R. CIRCLE, BANGALORE-01"
+  },
+  "E003 - B.M.S. College of Engineering": {
+    "cet_code": "E003",
+    "full_name": "B M S College of Engineering, Basavanagudi, Bangalore (AUTONOMOUS) POST BOX NO 1908, BULL TEMPLE ROAD,BANGALORE"
+  },
+  "E004 - Dr. Ambedkar Institute of Technology": {
+    "cet_code": "E004",
+    "full_name": "Dr. Ambedkar Institute of Technology, Bangalore(AUTONOMOUS) OUTER RING ROAD,NEAR JNANA BHARATHI CAMPUS,MALLATHAHALLI,BANGALORE-560056"
+  },
+  "E005 - R.V. College of Engineering": {
+    "cet_code": "E005",
+    "full_name": "R. V. College of Engineering, Bangalore(AUTONOMOUS) R.V. VIDYANIKETAN POST, MYSORE ROAD,BANGALORE"
+  },
+  "E006 - M.S. Ramaiah Institute of Technology": {
+    "cet_code": "E006",
+    "full_name": "M S Ramaiah Institute of Technology, Bangalore(AUTONOMOUS) VIDYA SOUDHA,MSR NAGAR,MSRIT POST,BANGALORE - 560054."
+  },
+  "E007 - Dayananda Sagar College of Engineering": {
+    "cet_code": "E007",
+    "full_name": "Dayananda Sagar College of Engineering, Bangalore(AUTONOMOUS) SHAVIGE MALLESHWARA HILLS, KUMARASWAMY LAYOUT, BANGALORE-560078"
+  },
+  "E008 - Bangalore Institute of Technology, K.R.Road": {
+    "cet_code": "E008",
+    "full_name": "Bangalore Institute of Technology, K.R.Road, Bangalore (AUTONOMOUS) K.R.ROAD, V.V.PURA, BANGALORE-560004"
+  },
+  "E009 - PES University 100 Feet Ring Road, Banashankari, 3rd Stage, Hosakerehalli, Near DSERT": {
+    "cet_code": "E009",
+    "full_name": "PES University 100 Feet Ring Road, Banashankari, 3rd Stage, Hosakerehalli, Near DSERT, , Bangalore KARNATAKA, pin code -560085"
+  },
+  "E011 - M V J College of Engineering": {
+    "cet_code": "E011",
+    "full_name": "M V J College of Engineering, Bangalore(AUTONOMOUS) NEAR ITPB,CHANNASANDRA,KADUGODI POST,BANGALORE"
+  },
+  "E012 - Sir MVIT": {
+    "cet_code": "E012",
+    "full_name": "Sir M.Visvesvaraya Institute of Technology, Bangalore KRISHNADEVARAYANAGAR, HUNASAMARANAHALLI, VIA YELAHANKA,BANGALORE - 562 157"
+  },
+  "E013 - Ghousia Engineering College": {
+    "cet_code": "E013",
+    "full_name": "Ghousia Engineering College, Ramanagara BANGALORE - MYSORE ROAD,RAMANAGARA"
+  },
+  "E014 - S J C Institute of Technology, Chickkaballapur(AUTONOMOUS) P B NO. 20, B B ROAD, CHICKBALLAPUR, CHICKBALLAPUR (DISTRICT)": {
+    "cet_code": "E014",
+    "full_name": "S J C Institute of Technology, Chickkaballapur(AUTONOMOUS) P B NO. 20, B B ROAD, CHICKBALLAPUR, CHICKBALLAPUR (DISTRICT)"
+  },
+  "E015 - Dr.T.Thimmaiah Institute of Technology, KGF 00RGAUM POST": {
+    "cet_code": "E015",
+    "full_name": "Dr.T.Thimmaiah Institute of Technology, KGF 00RGAUM POST,KOLAR GOLD FIELDS - 563 120"
+  },
+  "E016 - Siddaganga Institute of Technology": {
+    "cet_code": "E016",
+    "full_name": "Siddaganga Institute of Technology,Tumkur"
+  },
+  "E017 - Sri Siddhartha Institute of Technology MARALUR": {
+    "cet_code": "E017",
+    "full_name": "Sri Siddhartha Institute of Technology MARALUR ,TUMKUR"
+  },
+  "E018 - Kalpatharu Institute of Technology, Tiptur B.H.ROAD": {
+    "cet_code": "E018",
+    "full_name": "Kalpatharu Institute of Technology, Tiptur B.H.ROAD,HASSAN CIRCLE,TIPTUR-572202"
+  },
+  "E021 - Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University), Mysore JSS TECHNICAL INSTITUTIONS CAMPUS,MANASAGANGOTHRI PO,MYSORE": {
+    "cet_code": "E021",
+    "full_name": "Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University), Mysore JSS TECHNICAL INSTITUTIONS CAMPUS,MANASAGANGOTHRI PO,MYSORE"
+  },
+  "E022 - The National Institute of Engineering(SOUTH CAMPUS), Mysore(AUTONOMOUS) MANANDAVADI ROAD,MYSORE 570008": {
+    "cet_code": "E022",
+    "full_name": "The National Institute of Engineering(SOUTH CAMPUS), Mysore(AUTONOMOUS) MANANDAVADI ROAD,MYSORE 570008"
+  },
+  "E023 - P E S College of Engineering": {
+    "cet_code": "E023",
+    "full_name": "P E S College of Engineering, Mandya(AUTONOMOUS) MANDYA: 571 401"
+  },
+  "E024 - Malnad College of Engineering": {
+    "cet_code": "E024",
+    "full_name": "Malnad College of Engineering, Hassan(AUTONOMOUS) P.B. NO. 21, SALAGAME ROAD,HASSSAN"
+  },
+  "E028 - Tontadarya College of Engineering": {
+    "cet_code": "E028",
+    "full_name": "Tontadarya College of Engineering, Gadag MUNDARAGI ROAD ,GADAG - 582101"
+  },
+  "E029 - Maratha Mandal Engineering College, Belgaum RS. NO.104, HALBHAVI VILLAGE, POST: NEW VANTMURI, VIA KAKATI, TALUKA & DIST. BELGAUM-591113": {
+    "cet_code": "E029",
+    "full_name": "Maratha Mandal Engineering College, Belgaum RS. NO.104, HALBHAVI VILLAGE, POST: NEW VANTMURI, VIA KAKATI, TALUKA & DIST. BELGAUM-591113"
+  },
+  "E031 - B V V Sangha`s Basaveshwara Engineering College , Bagalkote (AUTONOMOUS) NIJALINGAPPA ROAD,BAGALKOT 587102": {
+    "cet_code": "E031",
+    "full_name": "B V V Sangha`s Basaveshwara Engineering College , Bagalkote (AUTONOMOUS) NIJALINGAPPA ROAD,BAGALKOT 587102"
+  },
+  "E032 - R.T.E. Soceity's Rural Engineering College, Hulkoti HULKOTI -582 205": {
+    "cet_code": "E032",
+    "full_name": "R.T.E. Soceity's Rural Engineering College, Hulkoti HULKOTI -582 205,GADAG"
+  },
+  "E033 - Sri Taralabalu Jagadguru Institute of Technology, Ranebennur P B ROAD (NH4),RANEBENNUR-581 115,HAVERI DISTRICT": {
+    "cet_code": "E033",
+    "full_name": "Sri Taralabalu Jagadguru Institute of Technology, Ranebennur P B ROAD (NH4),RANEBENNUR-581 115,HAVERI DISTRICT"
+  },
+  "E034 - SDM College of Engineering, Dharwad (AUTONOMOUS) DHAVALAGIRI,KALGHATGI ROAD,DHARWAD": {
+    "cet_code": "E034",
+    "full_name": "SDM College of Engineering, Dharwad (AUTONOMOUS) DHAVALAGIRI,KALGHATGI ROAD,DHARWAD"
+  },
+  "E035 - Anjuman Institute of Technology & Management, Bhatkal ANJUMANABAD,BHATKAL,(U K DIST)": {
+    "cet_code": "E035",
+    "full_name": "Anjuman Institute of Technology & Management, Bhatkal ANJUMANABAD,BHATKAL,(U K DIST), PIN 581320"
+  },
+  "E036 - K L E Technological Univeristy, Belgaum Campus (Formerly KLE Dr M.S.Sheshagiri College of Engineering and Technology) UDYAMBAGH,BELGAUM": {
+    "cet_code": "E036",
+    "full_name": "K L E Technological Univeristy, Belgaum Campus (Formerly KLE Dr M.S.Sheshagiri College of Engineering and Technology) UDYAMBAGH,BELGAUM"
+  },
+  "E037 - K.L.S. Gogte Institute of Technology, Belgaum.(AUTONOMOUS) \"JNANA GANGA\", UDYAMBAG,BELGAUM": {
+    "cet_code": "E037",
+    "full_name": "K.L.S. Gogte Institute of Technology, Belgaum.(AUTONOMOUS) \"JNANA GANGA\", UDYAMBAG,BELGAUM"
+  },
+  "E038 - BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur ASHRAM ROAD,BIJAPUR - 586103": {
+    "cet_code": "E038",
+    "full_name": "BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur ASHRAM ROAD,BIJAPUR - 586103"
+  },
+  "E040 - Hira Sugar Institute of Technology, Nidasoshi NIDAOSHI,TALUKA: HUKERI": {
+    "cet_code": "E040",
+    "full_name": "Hira Sugar Institute of Technology, Nidasoshi NIDAOSHI,TALUKA: HUKERI,DISTRICT: BELGAUM"
+  },
+  "E041 - P D A College of Engineering": {
+    "cet_code": "E041",
+    "full_name": "P D A College of Engineering, Gulbarga(AUTONOMOUS) AIWAN-E-SHAHI AREA,STATION ROAD,GULBARGA-585102"
+  },
+  "E042 - Khaja Bandanawaz University KBN University Street, Khaja Colony, Kalaburagi": {
+    "cet_code": "E042",
+    "full_name": "Khaja Bandanawaz University KBN University Street, Khaja Colony, Kalaburagi, Karnataka 585104"
+  },
+  "E043 - Gurunanak Dev Engineering College": {
+    "cet_code": "E043",
+    "full_name": "Gurunanak Dev Engineering College, Bidar MAILOOR ROAD,BIDAR 585403"
+  },
+  "E044 - Bheemanna Khandre Institute of Technology, Bhalki BHALKI-HUMNABAD ROAD,BHALKI- 585328": {
+    "cet_code": "E044",
+    "full_name": "Bheemanna Khandre Institute of Technology, Bhalki BHALKI-HUMNABAD ROAD,BHALKI- 585328,DIST. BIDAR"
+  },
+  "E045 - Rao Bahadur Y.Mahabaleswarappa Engineering College": {
+    "cet_code": "E045",
+    "full_name": "Rao Bahadur Y.Mahabaleswarappa Engineering College, Bellary CONTONMENT, BELLARY-583104"
+  },
+  "E046 - H K E's Society's Sir M Visvesvaraya College of Engineering, Raichur YERAMARUS CAMP,RAICHUR-584 135": {
+    "cet_code": "E046",
+    "full_name": "H K E's Society's Sir M Visvesvaraya College of Engineering, Raichur YERAMARUS CAMP,RAICHUR-584 135,"
+  },
+  "E047 - Malnad College of Engineering": {
+    "cet_code": "E047",
+    "full_name": "Malnad College of Engineering, Hassan(AUTONOMOUS) P.B. NO. 21, SALAGAME ROAD,HASSSAN"
+  },
+  "E048 - B.M.S. College of Engineering": {
+    "cet_code": "E048",
+    "full_name": "B M S College of Engineering, Basavanagudi, Bangalore (AUTONOMOUS) POST BOX NO 1908, BULL TEMPLE ROAD,BANGALORE"
+  },
+  "E049 - B V V Sangha`s Basaveshwara Engineering College , Bagalkote (AUTONOMOUS) NIJALINGAPPA ROAD,BAGALKOT 587102": {
+    "cet_code": "E049",
+    "full_name": "B V V Sangha`s Basaveshwara Engineering College , Bagalkote (AUTONOMOUS) NIJALINGAPPA ROAD,BAGALKOT 587102"
+  },
+  "E054 - K V G College of Engineering, Sullia KURUNJIBHAG": {
+    "cet_code": "E054",
+    "full_name": "K V G College of Engineering, Sullia KURUNJIBHAG,"
+  },
+  "E055 - P A College of Engineering, Kairangal, Bantwala Tq,. Mangalore NADUPADAV, NEAR MANGALORE UNIVERSITY,MONTEPADAV POST, KAIRANGALA VILLAGE,BANTWAL-MANGALORE": {
+    "cet_code": "E055",
+    "full_name": "P A College of Engineering, Kairangal, Bantwala Tq,. Mangalore NADUPADAV, NEAR MANGALORE UNIVERSITY,MONTEPADAV POST, KAIRANGALA VILLAGE,BANTWAL-MANGALORE"
+  },
+  "E056 - The National Institute of Engineering(SOUTH CAMPUS), Mysore(AUTONOMOUS) MANANDAVADI ROAD,MYSORE 570008": {
+    "cet_code": "E056",
+    "full_name": "The National Institute of Engineering(SOUTH CAMPUS), Mysore(AUTONOMOUS) MANANDAVADI ROAD,MYSORE 570008"
+  },
+  "E057 - JSS Science and Technology University JSS TECHNICAL INSTITUTIONS CAMPUS, MANASAGANGOTHRI": {
+    "cet_code": "E057",
+    "full_name": "JSS Science and Technology University JSS TECHNICAL INSTITUTIONS CAMPUS, MANASAGANGOTHRI, MYSURU 570006"
+  },
+  "E058 - P E S College of Engineering": {
+    "cet_code": "E058",
+    "full_name": "P E S College of Engineering, Mandya(AUTONOMOUS) MANDYA: 571 401"
+  },
+  "E059 - P D A College of Engineering": {
+    "cet_code": "E059",
+    "full_name": "P D A College of Engineering, Gulbarga(AUTONOMOUS) AIWAN-E-SHAHI AREA,STATION ROAD,GULBARGA-585102"
+  },
+  "E060 - Dr. Ambedkar Institute of Technology": {
+    "cet_code": "E060",
+    "full_name": "Dr. Ambedkar Institute of Technology, Bangalore(AUTONOMOUS) OUTER RING ROAD,NEAR JNANA BHARATHI CAMPUS,MALLATHAHALLI,BANGALORE-560056"
+  },
+  "E061 - University B.D.T College of Engineering": {
+    "cet_code": "E061",
+    "full_name": "University B.D.T College of Engineering, Davanagere P J EXTENSION,HADADI ROAD,DAVENGERE"
+  },
+  "E062 - Bapuji Institute of Engineering & Technology, Davangere (AUTONOMOUS) BAPUJI INSTITUTE OF ENGINEERING & TECHNOLOGY,P.B. NO.325,SHAMANUR ROAD,DAVANGERE-577 004": {
+    "cet_code": "E062",
+    "full_name": "Bapuji Institute of Engineering & Technology, Davangere (AUTONOMOUS) BAPUJI INSTITUTE OF ENGINEERING & TECHNOLOGY,P.B. NO.325,SHAMANUR ROAD,DAVANGERE-577 004"
+  },
+  "E063 - S J M Institute of Technology": {
+    "cet_code": "E063",
+    "full_name": "S J M Institute of Technology, Chitradurga P B NO 73, NH -4 BYE PASS, CHITRADURGA"
+  },
+  "E064 - Adhichunchanagiri Institute of Technology, Chickamagalur ADICHUNCHANAGIRI EXTENTION,JYOTHINAGAR,CHIKMAGALUR - 577102": {
+    "cet_code": "E064",
+    "full_name": "Adhichunchanagiri Institute of Technology, Chickamagalur ADICHUNCHANAGIRI EXTENTION,JYOTHINAGAR,CHIKMAGALUR - 577102"
+  },
+  "E065 - Jawaharlal Nehru New College of Engineering, Shimoga P.B. NO. 128,NAVULE, SHIMOGA": {
+    "cet_code": "E065",
+    "full_name": "Jawaharlal Nehru New College of Engineering, Shimoga P.B. NO. 128,NAVULE, SHIMOGA"
+  },
+  "E066 - University B.D.T. college of Engineering, (H.GOV),Davangere": {
+    "cet_code": "E066",
+    "full_name": "University B.D.T. college of Engineering, (H.GOV),Davangere"
+  },
+  "E070 - Bahubali College of Engineering, Shravanabelagola": {
+    "cet_code": "E070",
+    "full_name": "Bahubali College of Engineering, Shravanabelagola, Hassan GOMMATANAGARA,SHRAVANABELAGOLA - 573135 HASSAN"
+  },
+  "E071 - Vidya Vardhaka College of Engineering, Mysore(AUTONOMOUS) P.B.NO.206,GOKULAM 3RD STAGE,MYSORE": {
+    "cet_code": "E071",
+    "full_name": "Vidya Vardhaka College of Engineering, Mysore(AUTONOMOUS) P.B.NO.206,GOKULAM 3RD STAGE,MYSORE"
+  },
+  "E075 - Ballari Institute of Technology & Management": {
+    "cet_code": "E075",
+    "full_name": "Ballari Institute of Technology & Management, Bellary(AUTONOMOUS) \"JNANA GANGOTRI\" CAMPUS, #873/2 OF KOLAGAL VILLAGE,BELLARY-HOSPET ROAD, ALLIPUR"
+  },
+  "E076 - Proudadevaraya Institute of Technology, Hospet SHAH BHAVARLAL BABULAL NAHAR CAMPUS,T.B.DAM ROAD, BESIDE TSP LIMITED,HOSPET - 583225": {
+    "cet_code": "E076",
+    "full_name": "Proudadevaraya Institute of Technology, Hospet SHAH BHAVARLAL BABULAL NAHAR CAMPUS,T.B.DAM ROAD, BESIDE TSP LIMITED,HOSPET - 583225,BELLARY DISTRICT"
+  },
+  "E077 - Vidya Vikas Institute of Engineering & Technology, Mysore #127,ALANAHALLY,ALANAHALLY POST,MYSORE-BANNUR ROAD,MYSORE": {
+    "cet_code": "E077",
+    "full_name": "Vidya Vikas Institute of Engineering & Technology, Mysore #127,ALANAHALLY,ALANAHALLY POST,MYSORE-BANNUR ROAD,MYSORE"
+  },
+  "E078 - The Oxford College of Engineering": {
+    "cet_code": "E078",
+    "full_name": "The Oxford College of Engineering, Bangalore HOSUR ROAD,BOMMANAHALLI,BANGALORE"
+  },
+  "E079 - Acharya Institute of Technology, Soldevanahalli,Chikkabanavara post": {
+    "cet_code": "E079",
+    "full_name": "Acharya Institute of Technology, Soldevanahalli,Chikkabanavara post, Bangalore SOLDEVANAHALLI, HESARAGHATTA MAIN ROAD, CHIKKABANAVARA POST,BANGALORE URBAN"
+  },
+  "E081 - SRI SIDDHARTHA SCHOOL OF ENGINEERING": {
+    "cet_code": "E081",
+    "full_name": "SRI SIDDHARTHA SCHOOL OF ENGINEERING, TUMKUR NH-4, KESARAMADU POST, KYATHASANDRA,TUMKUR"
+  },
+  "E082 - J S S Academy of Technical Education": {
+    "cet_code": "E082",
+    "full_name": "J S S Academy of Technical Education, Bangalore JSSATE CAMPUS,UTTARAHALLI-KENGERI ROAD ,BANGALORE 560060"
+  },
+  "E083 - H.K.B.K.College of Engineering": {
+    "cet_code": "E083",
+    "full_name": "H.K.B.K.College of Engineering, Bangalore # 22/1, NAGAWARA, BANGALORE-560045"
+  },
+  "E085 - APS College of Engineering, Somanahalli": {
+    "cet_code": "E085",
+    "full_name": "APS College of Engineering, Somanahalli, Bangalore 26 KM KANAKAPURA ROAD BANGALORE 82,BANGALORE URBAN"
+  },
+  "E086 - Sri Sairam College Of Engineering, Anekal": {
+    "cet_code": "E086",
+    "full_name": "Sri Sairam College Of Engineering, Anekal, Bangalore SAI LEO NAGAR"
+  },
+  "E087 - Vivekananada Institute of Technology, Kengeri": {
+    "cet_code": "E087",
+    "full_name": "Vivekananada Institute of Technology, Kengeri, Bangalore GUDIMAVU VILLAGE ,KENGERI(HOBLI)NEAR KUMBALAGODU,BANGALORE"
+  },
+  "E090 - Sri Revana Siddeswara Institute of Technology": {
+    "cet_code": "E090",
+    "full_name": "Sri Revana Siddeswara Institute of Technology, Bangalore CHOKKANAHALLI, CHIKKAJALA,BANGALORE NORTH - 562157"
+  },
+  "E091 - K S Institute of Technology, Raghuvanahalli": {
+    "cet_code": "E091",
+    "full_name": "K S Institute of Technology, Raghuvanahalli, Bangalore(AUTONOMOUS) #14,RAGUVANAHALLI, KANAKAPURA MAIN ROAD,BANGALORE - 560 062."
+  },
+  "E092 - Vemana Institute of Technology": {
+    "cet_code": "E092",
+    "full_name": "Vemana Institute of Technology, Bangalore #1, MAHAYOGI VEMANA ROAD, 3RD BLOCK, KORMANGALA, BANGALORE -560034."
+  },
+  "E093 - Basavakalyana Engineering College, Basavakalyana": {
+    "cet_code": "E093",
+    "full_name": "Basavakalyana Engineering College, Basavakalyana, Bidar District N.H.9 ,BASAVAKALYAN-585327,DIST. BIDAR"
+  },
+  "E094 - Coorg Institute of Technology, Kunda, Ponnampet": {
+    "cet_code": "E094",
+    "full_name": "Coorg Institute of Technology, Kunda, Ponnampet POST BOX NO.11,COORG"
+  },
+  "E095 - AMC Engineering College, Bannerghatta Road": {
+    "cet_code": "E095",
+    "full_name": "AMC Engineering College, Bannerghatta Road, Bangalore(AUTONOMOUS) 18KM,BANNERAGHATTA ROAD,KALKERE,BANGALORE-560083,BANGALORE URBAN"
+  },
+  "E096 - East Point College of Engineering & Technology": {
+    "cet_code": "E096",
+    "full_name": "East Point College of Engineering & Technology, Bangalore(AUTONOMOUS) JNANA PRABHA, BIDARAHALLI,VIRGONAGAR POST,BANGALORE."
+  },
+  "E097 - C M R Institute of Technology, Kundala Halli village": {
+    "cet_code": "E097",
+    "full_name": "C M R Institute of Technology, Kundala Halli village, Bangalore # 132, KUNDALAHALLI VILLAGE,IT PARK ROAD,BANGALORE - 560 037"
+  },
+  "E098 - Atria Institute of Technology, Anand Nagar, Hebbal PO": {
+    "cet_code": "E098",
+    "full_name": "Atria Institute of Technology, Anand Nagar, Hebbal PO, Bangalore (AUTONOMOUS) ASKB CAMPUS, AG'S COLONY, 1ST MAIN, ANANDNAGAR,BANGALORE"
+  },
+  "E099 - New Horizon College of Engineering, Varthur": {
+    "cet_code": "E099",
+    "full_name": "New Horizon College of Engineering, Varthur, Bangalore(AUTONOMOUS) RING ROAD, NEAR MARATHALLI, BELLANDUR POST,KADUBHISANAHALLI,BANGALORE"
+  },
+  "E100 - K N S Institute of Technology": {
+    "cet_code": "E100",
+    "full_name": "K N S Institute of Technology, Bangalore THIRUMENAHALLI, HEGGADENAGAR-KOGILU ROAD, YELAHANKA, BANGALORE-560064"
+  },
+  "E101 - Channabasaveshwara Institute of Technology, Gubbi Herur": {
+    "cet_code": "E101",
+    "full_name": "Channabasaveshwara Institute of Technology, Gubbi Herur, Tumkur NH 206 (BH ROAD), GUBBI, TUMKUR. KARNATAKA"
+  },
+  "E102 - DONBOSCO Institute of Technology": {
+    "cet_code": "E102",
+    "full_name": "DONBOSCO Institute of Technology, Bangalore(AUTONOMOUS) KUMBALAGODU, MYSORE ROAD, KENGERI HOBLI,BANGALORE-560074"
+  },
+  "E103 - Global Academy of Technology": {
+    "cet_code": "E103",
+    "full_name": "Global Academy of Technology, Bangalore(AUTONOMOUS) IDEAL HOMES TOWNSHIP,RAJARAJESHWARINAGAR,BANGALORE-560098"
+  },
+  "E104 - Nagarjuna College of Engineering & Technology,venkatagiri Kote, Devanahalli": {
+    "cet_code": "E104",
+    "full_name": "Nagarjuna College of Engineering & Technology,venkatagiri Kote, Devanahalli, Bangalore Rural.(AUTONOMOUS) MUDUGURKIVENKATAGIRI KOTE DEVANAHALLI,BANGALORE"
+  },
+  "E106 - East West Institute Of Technology": {
+    "cet_code": "E106",
+    "full_name": "East West Institute Of Technology,Bangalore(AUTONOMOUS) SY. NO.63, OFF MAGADI MAIN ROAD, VISHWANEEDAM POST,BANGALORE"
+  },
+  "E107 - B N M Institute of Technology": {
+    "cet_code": "E107",
+    "full_name": "B N M Institute of Technology, Bangalore (AUTONOMOUS) 12TH MAIN, 27TH CROSS, BSK SECOND STAGE"
+  },
+  "E108 - SAPTHAGIRI NPS UNIVERISTY #14/5, CHIKKASANDRA,HESARAGHATTA MAIN ROAD,BANGALURU": {
+    "cet_code": "E108",
+    "full_name": "SAPTHAGIRI NPS UNIVERISTY #14/5, CHIKKASANDRA,HESARAGHATTA MAIN ROAD,BANGALURU"
+  },
+  "E109 - City Engineering College,Doddakalisandra": {
+    "cet_code": "E109",
+    "full_name": "City Engineering College,Doddakalisandra, Bangalore South DODDAKALLASANDRA, KANAKAPURA ROAD, BANGALORE."
+  },
+  "E111 - Sri Venkateshwara College of Engineering": {
+    "cet_code": "E111",
+    "full_name": "Sri Venkateshwara College of Engineering, Bangalore VIDYANAGAR, BENGALURU INTERNATIONAL AIRPORT ROAD,BETTAHALASUR POST,BENGALURU NORTH,BENGALURU - 562 157"
+  },
+  "E112 - Sri Krishna Institute of Technology": {
+    "cet_code": "E112",
+    "full_name": "Sri Krishna Institute of Technology, Bangalore NO. 29, HESARAGHATTA MAIN ROAD,CHIMNEY HILLS, CHIKKABANAVARA POST,BANGALORE - 560090"
+  },
+  "E113 - Sambhram Institute of Technology": {
+    "cet_code": "E113",
+    "full_name": "Sambhram Institute of Technology, Bangalore AMBABHAVANI TEMPLE ROAD,M.S.PALYA, JALAHALLI EAST,VIDYARANYAPURA POST,BANGALORE"
+  },
+  "E114 - G M Institute of Technology": {
+    "cet_code": "E114",
+    "full_name": "G M Institute of Technology, Davanagere POST BOX. NO. 4, P.B.ROAD.DAVANGERE."
+  },
+  "E115 - S.J B. Institute of Technology": {
+    "cet_code": "E115",
+    "full_name": "S.J B. Institute of Technology, Bangalore (AUTONOMOUS) BGS HEALTH & EDUCATION CITY,NO 67, UTTARAHALLI ROAD.KENGERI, BANGALORE -60"
+  },
+  "E116 - R.L.Jalappa Institute of Technology, Doddaballapura KODIGEHALLI, DODDABALLAPUR-561203": {
+    "cet_code": "E116",
+    "full_name": "R.L.Jalappa Institute of Technology, Doddaballapura KODIGEHALLI, DODDABALLAPUR-561203, BANGALORE RURAL"
+  },
+  "E118 - RNS Institute of Technology": {
+    "cet_code": "E118",
+    "full_name": "RNS Institute of Technology, Bangalore (AUTONOMOUS) CHANNASANDRA,UTTARAHALLI -KENGERI MAIN ROAD,SUBRAMANYAPURA POST,BANGALORE"
+  },
+  "E119 - K C T Engineering College": {
+    "cet_code": "E119",
+    "full_name": "K C T Engineering College, Gulbarga KCT CAMPUS"
+  },
+  "E120 - Jnanavikasa Institute of Technology, Bidadi": {
+    "cet_code": "E120",
+    "full_name": "Jnanavikasa Institute of Technology, Bidadi,Ramanagar VIDYA SOUDHA, 32ND K.M.BANGALORE - MYSORE HIGH WAY,"
+  },
+  "E121 - Vivekananada College of Engineering Technology, Puttur NEHARU NAGARA,PUTTUR TALUK": {
+    "cet_code": "E121",
+    "full_name": "Vivekananada College of Engineering Technology, Puttur NEHARU NAGARA,PUTTUR TALUK,DAKSHINA KANNADA"
+  },
+  "E123 - Canara Engineering College Bantwal, BENJANAPADAVU,BANTWAL,PIN 574219": {
+    "cet_code": "E123",
+    "full_name": "Canara Engineering College Bantwal, BENJANAPADAVU,BANTWAL,PIN 574219,DAKSHINA KANNADA DIST,"
+  },
+  "E124 - Rajiv Gandhi Institute of Technology": {
+    "cet_code": "E124",
+    "full_name": "Rajiv Gandhi Institute of Technology, Bangalore CHOLANGAR,R.T.NAGAR POST, HEBBAL,BANGALORE-560032"
+  },
+  "E126 - B M S Institute of Technology & Management, Yelahanka": {
+    "cet_code": "E126",
+    "full_name": "B M S Institute of Technology & Management, Yelahanka, Bangalore(AUTONOMOUS) POST BOX NO.6443, AVALAHALLI,DODDABALLAPURA MAIN ROAD,YELAHANKA, BANGALORE - 560064."
+  },
+  "E127 - M S Engineering College": {
+    "cet_code": "E127",
+    "full_name": "M S Engineering College, Bangalore NAVARATHNA AGRAHARA, SADAHALLIPOST, NEAR BIAL, BANGALORE"
+  },
+  "E128 - Sharanbasava University (Formerly Appa Institute of Engineering and Tech) SHARNBASVESHWARA INSTITUTIONS CAMPUS , KALABURAGI ( GULBARGA) -585103": {
+    "cet_code": "E128",
+    "full_name": "Sharanbasava University (Formerly Appa Institute of Engineering and Tech) SHARNBASVESHWARA INSTITUTIONS CAMPUS , KALABURAGI ( GULBARGA) -585103 , KARNATAKA"
+  },
+  "E129 - St.Joseph Engineering College, Mangalore(AUTONOMOUS)": {
+    "cet_code": "E129",
+    "full_name": "St.Joseph Engineering College, Mangalore(AUTONOMOUS) MANGALORE"
+  },
+  "E130 - Shridevi Institute of Engineering & Technology": {
+    "cet_code": "E130",
+    "full_name": "Shridevi Institute of Engineering & Technology, Tumkur MARELENAHALLY,SIRA ROAD ,TUMKUR"
+  },
+  "E132 - Secab Institute of Engineering & Technology, Bijapur 424, NAURASPUR, BAGALKOT ROAD, HUDCO CROSS,BIJAPUR-586101": {
+    "cet_code": "E132",
+    "full_name": "Secab Institute of Engineering & Technology, Bijapur 424, NAURASPUR, BAGALKOT ROAD, HUDCO CROSS,BIJAPUR-586101"
+  },
+  "E133 - G S S S Institute of Engineering & Technology for Women, Mysore K.R.S. ROAD, METAGALLI INDUSTRIAL AREA, MYSORE-16": {
+    "cet_code": "E133",
+    "full_name": "G S S S Institute of Engineering & Technology for Women, Mysore K.R.S. ROAD, METAGALLI INDUSTRIAL AREA, MYSORE-16"
+  },
+  "E134 - Smt. Kamala & Sri Venkappa M.Agadi College of Engineering & Technology": {
+    "cet_code": "E134",
+    "full_name": "Smt. Kamala & Sri Venkappa M.Agadi College of Engineering & Technology, Gadag SAVANUR ROAD, GULAGANJIKOPPA,LAXMESHWAR DIST: GADAG"
+  },
+  "E135 - K L S Viswanathrao Deshpande Institute of Technology, Haliyal UDYOG VIDYA NAGAR,DANDELI ROAD, HALIYAL-581329": {
+    "cet_code": "E135",
+    "full_name": "K L S Viswanathrao Deshpande Institute of Technology, Haliyal UDYOG VIDYA NAGAR,DANDELI ROAD, HALIYAL-581329"
+  },
+  "E136 - Moodalakatte Institute of Technology, Kundapura": {
+    "cet_code": "E136",
+    "full_name": "Moodalakatte Institute of Technology, Kundapura, Udupi MOODLAKATTE,KUNDAPURA TALUK,UDUPI DISTRICT"
+  },
+  "E139 - Impact College of Engineering & Applied Sciences": {
+    "cet_code": "E139",
+    "full_name": "Impact College of Engineering & Applied Sciences, Bangalore KODIGEHALLI,SAHAKARANAGAR SOUTH BANGALORE"
+  },
+  "E141 - PES UNIVERSITY(Electronic City Campus) Hosur Rd, Konappana Agrahara, Electronic City": {
+    "cet_code": "E141",
+    "full_name": "PES UNIVERSITY(Electronic City Campus) Hosur Rd, Konappana Agrahara, Electronic City, Bengaluru, Karnataka 560100"
+  },
+  "E142 - Adhichunchanagiri University (Formerly B G S Institute of Technology) B.G.NAGARA ,NAGAMANGALA TALUK": {
+    "cet_code": "E142",
+    "full_name": "Adhichunchanagiri University (Formerly B G S Institute of Technology) B.G.NAGARA ,NAGAMANGALA TALUK,MANDYA DISTRICT -571448"
+  },
+  "E144 - Srinivas Institute of Technology, Mangalore SRINIVAS CAMPUS": {
+    "cet_code": "E144",
+    "full_name": "Srinivas Institute of Technology, Mangalore SRINIVAS CAMPUS"
+  },
+  "E145 - Rajarajeswari College of Engineering": {
+    "cet_code": "E145",
+    "full_name": "Rajarajeswari College of Engineering, Bangalore (AUTONOMOUS) #14, RAMOHOLLI CROSS,KUMBALGODU, MYSORE ROAD,BANGALORE - 560074"
+  },
+  "E146 - Shreedevi Institute of Technology, Mangalore AIRPORT ROAD, KENJAR VILLAGE,MALAVOOR PANCHAYAT": {
+    "cet_code": "E146",
+    "full_name": "Shreedevi Institute of Technology, Mangalore AIRPORT ROAD, KENJAR VILLAGE,MALAVOOR PANCHAYAT,DAKSHINA KANNADA"
+  },
+  "E147 - T.John Institute of technology": {
+    "cet_code": "E147",
+    "full_name": "T.John Institute of technology, Bangalore #86/1, KAMMANAHALLI,GOTTIGERE,BANNERUGATTA ROAD,BANGALORE"
+  },
+  "E149 - Cambridge Institutute of Technology, K.R.Puram": {
+    "cet_code": "E149",
+    "full_name": "Cambridge Institutute of Technology, K.R.Puram, Bangalore(AUTONOMOUS) K R PURAM,BANGALORE"
+  },
+  "E150 - P E S Institute of Technology & Management, Shimoga GUDDADAARAKERE, KOTEGANGOORSAGAR ROAD,SHIMOGA": {
+    "cet_code": "E150",
+    "full_name": "P E S Institute of Technology & Management, Shimoga GUDDADAARAKERE, KOTEGANGOORSAGAR ROAD,SHIMOGA"
+  },
+  "E151 - Mangalore Institute of Technology & Engineering, Moodabidri, Mangalore(AUTONOMOUS) BADAGA MIJAR": {
+    "cet_code": "E151",
+    "full_name": "Mangalore Institute of Technology & Engineering, Moodabidri, Mangalore(AUTONOMOUS) BADAGA MIJAR,"
+  },
+  "E152 - S D M Institute of Tech., Ujire": {
+    "cet_code": "E152",
+    "full_name": "S D M Institute of Tech., Ujire, Dakshina Kannada UJIRE-574240 DAKSHINA KANNADA KARNATAKA"
+  },
+  "E153 - S E A College of Engineering & Technology, Virgonagar": {
+    "cet_code": "E153",
+    "full_name": "S E A College of Engineering & Technology, Virgonagar, Bangalore EKTA NAGAR, BASAVANAPURA, VIRGO NAGAR POST, BANGALORE - 560 049."
+  },
+  "E154 - Government Engineering College, Chamarajanagara GOVERNMENT POLYTECHNIC CAMPUS,NANJANGUD ROAD,CHAMARAJANAGARA": {
+    "cet_code": "E154",
+    "full_name": "Government Engineering College, Chamarajanagara GOVERNMENT POLYTECHNIC CAMPUS,NANJANGUD ROAD,CHAMARAJANAGARA"
+  },
+  "E155 - Government Engineering College": {
+    "cet_code": "E155",
+    "full_name": "Government Engineering College, Hassan DAIRY CIRCLE, B M ROAD, HASSAN"
+  },
+  "E156 - K R PET KRISHNA, GOVERNMENT ENGINEERING COLLEGES, K R PET": {
+    "cet_code": "E156",
+    "full_name": "K R PET KRISHNA, GOVERNMENT ENGINEERING COLLEGES, K R PET, MANDYA KRISHNARAJPET, MANDYA DIST. - 571 426,"
+  },
+  "E157 - Government Engineering College": {
+    "cet_code": "E157",
+    "full_name": "Government Engineering College, Ramanagaram DODDAMANNUGUDDE, RAMANAGAR, RAMANAGAR DISTRICT - 571 511"
+  },
+  "E158 - Maharaja Institute of Technology Mysore,Belawadi,Srirangapatna": {
+    "cet_code": "E158",
+    "full_name": "Maharaja Institute of Technology Mysore,Belawadi,Srirangapatna,Mandya(AUTONOMOUS) BEHIND K R MILLS,BELAWADI VILLAGE,NAGUVANAHALLI PANCHAYAT,SRIRANGAPATNA TALUK,MANDYA DISTRICT"
+  },
+  "E159 - Karavali Institute of Technology, Neermarga, Mangalore PADU POST, VIA PEDUMALE,NEERUMARGA,MANGALORE -575029": {
+    "cet_code": "E159",
+    "full_name": "Karavali Institute of Technology, Neermarga, Mangalore PADU POST, VIA PEDUMALE,NEERUMARGA,MANGALORE -575029"
+  },
+  "E160 - Sahyadri College Of Engineering & Management, Adyar, Mangalore(AUTONOMOUS) 'SAHYADRI CAMPUS'N.H-48, ADYAR,MANGALORE": {
+    "cet_code": "E160",
+    "full_name": "Sahyadri College Of Engineering & Management, Adyar, Mangalore(AUTONOMOUS) 'SAHYADRI CAMPUS'N.H-48, ADYAR,MANGALORE"
+  },
+  "E161 - Government Engineering College, Kushalanagar MEDIKERI ROAD,MADAPATNA,KUSHALANAGAR": {
+    "cet_code": "E161",
+    "full_name": "Government Engineering College, Kushalanagar MEDIKERI ROAD,MADAPATNA,KUSHALANAGAR"
+  },
+  "E162 - Government Engineering College, Raichur RAICHUR-HYDERABAD ROAD YERAMARUS,RAICHUR": {
+    "cet_code": "E162",
+    "full_name": "Government Engineering College, Raichur RAICHUR-HYDERABAD ROAD YERAMARUS,RAICHUR"
+  },
+  "E163 - Government Engineering College, Haveri DEVAGIRI,HAVERI": {
+    "cet_code": "E163",
+    "full_name": "Government Engineering College, Haveri DEVAGIRI,HAVERI"
+  },
+  "E164 - Government Engineering College, Hoovina Hadagali HUVINAHADAGALI 583219": {
+    "cet_code": "E164",
+    "full_name": "Government Engineering College, Hoovina Hadagali HUVINAHADAGALI 583219,DIST: VIJAYANAGARA"
+  },
+  "E165 - Yenepoya Institute Of Technology, Mangalore VIDYANAGAR N.H 13THODAR MIJAR POST MOODBIDRI MANGALORE TQ": {
+    "cet_code": "E165",
+    "full_name": "Yenepoya Institute Of Technology, Mangalore VIDYANAGAR N.H 13THODAR MIJAR POST MOODBIDRI MANGALORE TQ"
+  },
+  "E167 - K L E S's K L E College of Engineering & Technology, Chikkodi, Belgaum Dist. BANANTIKODI ROAD CHIKODI,BELGAUM -591 201": {
+    "cet_code": "E167",
+    "full_name": "K L E S's K L E College of Engineering & Technology, Chikkodi, Belgaum Dist. BANANTIKODI ROAD CHIKODI,BELGAUM -591 201,"
+  },
+  "E168 - Amrutha Institute of Engineering & Management Science (AIEMS)": {
+    "cet_code": "E168",
+    "full_name": "Amrutha Institute of Engineering & Management Science (AIEMS), Ramanagar BIDADI INDUSTRIAL AREA, OFF MYSORE ROAD, NEAR TOYOTA KIRLOSKAR MOTORS, BMRDA REGION, BANGALORE"
+  },
+  "E169 - Alva's Institute of Engineering & Technology, Moodabidre, D.K (AUTONOMOUS) SHOBHAVANA CAMPUS,MIJAR,MOODBIDRI - 574225,MANGALORE TALUK,DHAKSHINA KANNADA": {
+    "cet_code": "E169",
+    "full_name": "Alva's Institute of Engineering & Technology, Moodabidre, D.K (AUTONOMOUS) SHOBHAVANA CAMPUS,MIJAR,MOODBIDRI - 574225,MANGALORE TALUK,DHAKSHINA KANNADA"
+  },
+  "E171 - Brindavan College of Engineering, Yelahanaka": {
+    "cet_code": "E171",
+    "full_name": "Brindavan College of Engineering, Yelahanaka, Bangalore DWARAKANAGARA, BAGALUR MAIN ROAD,YELAHANKA, BANGALORE - 560 063"
+  },
+  "E172 - R.R. Institute of Technology, Chikkabanavara": {
+    "cet_code": "E172",
+    "full_name": "R.R. Institute of Technology, Chikkabanavara, Bangalore(AUTONOMOUS) NO. 67, RAJA REDDY LAYOUT,NEAR CHIKKABANAVARA RAILWAY STATION,CHIKKABANAVARA,BANGALORE - 560090"
+  },
+  "E173 - Sai Vidya Institute of Technology, Rajanakunte": {
+    "cet_code": "E173",
+    "full_name": "Sai Vidya Institute of Technology, Rajanakunte, Bangalore RAJANUKUNTE,DODDBALLAPURA ROAD ,VIA: YELAHANKA,BANGALORE"
+  },
+  "E174 - Dr. Sri Sri Sri Shivakumara Mahaswamyji College of Engineering, Byranayakanahalli": {
+    "cet_code": "E174",
+    "full_name": "Dr. Sri Sri Sri Shivakumara Mahaswamyji College of Engineering, Byranayakanahalli, Bangalore Rural BYARANAYAKANAHALLI,DODDABALE POST,NELAMANGALA TALUK,BANGALORE RURAL DISTRICT"
+  },
+  "E175 - S.S.E.T.S.S.G.Balekundri Institute of Technology, Shivabasavanagar, Belgaum SHIVABASAVA NAGAR, BELGAUM - 590010": {
+    "cet_code": "E175",
+    "full_name": "S.S.E.T.S.S.G.Balekundri Institute of Technology, Shivabasavanagar, Belgaum SHIVABASAVA NAGAR, BELGAUM - 590010"
+  },
+  "E176 - Navodaya Institute of Technology, Raichur(AUTONOMOUS) NAVODAYA NAGAR, MANATRALAYAM ROAD, RAICHUR": {
+    "cet_code": "E176",
+    "full_name": "Navodaya Institute of Technology, Raichur(AUTONOMOUS) NAVODAYA NAGAR, MANATRALAYAM ROAD, RAICHUR"
+  },
+  "E177 - Rajeev Institute of Technology": {
+    "cet_code": "E177",
+    "full_name": "Rajeev Institute of Technology, Hassan PLOT 1-D(P-1), GROWTH CENTRE, INDUSTRIAL AREA, BANGALORE MANGALORE BYPASS ROAD"
+  },
+  "E178 - The National Institute of Engineering(NORTH CAMPUS), No.50(Part) Koorgalli,Hootgalli Industrial Area": {
+    "cet_code": "E178",
+    "full_name": "The National Institute of Engineering(NORTH CAMPUS), No.50(Part) Koorgalli,Hootgalli Industrial Area ,Mysuru-570018"
+  },
+  "E180 - Beary's Institute of Technology, Boliar Village,Bantwal Tq, Mangalore LANDS END, INNOLI,BOLIYAR VILLAGE,NEAR MANGALORE UNIVERSITY,MANGALORE-574 153": {
+    "cet_code": "E180",
+    "full_name": "Beary's Institute of Technology, Boliar Village,Bantwal Tq, Mangalore LANDS END, INNOLI,BOLIYAR VILLAGE,NEAR MANGALORE UNIVERSITY,MANGALORE-574 153"
+  },
+  "E181 - Sri Basaveswara Institute of Technology, Madenur Gate, B.H. Road, Tiptur": {
+    "cet_code": "E181",
+    "full_name": "Sri Basaveswara Institute of Technology, Madenur Gate, B.H. Road, Tiptur"
+  },
+  "E184 - C Byre Gowda Institute of Technology, Thoradevandahalli Village": {
+    "cet_code": "E184",
+    "full_name": "C Byre Gowda Institute of Technology, Thoradevandahalli Village, Kolar SRINIVASPURA ROAD, THORADEVANDAHALLI, KOLAR-563101"
+  },
+  "E185 - Angadi Institute of Technology and Management , Savgoan Rd., Belgaum SAVAGAON ROAD": {
+    "cet_code": "E185",
+    "full_name": "Angadi Institute of Technology and Management , Savgoan Rd., Belgaum SAVAGAON ROAD BELGAUM"
+  },
+  "E186 - ACS College of Engineering, Mysore Road": {
+    "cet_code": "E186",
+    "full_name": "ACS College of Engineering, Mysore Road, Bangalore 207,KAMBIPURA, MYSORE ROAD, KENGERI HOBLI,BANGALORE - 560074."
+  },
+  "E188 - Vijaya Vittala Institute of Technology, Doddagubbi, Hennur Bagalur Road": {
+    "cet_code": "E188",
+    "full_name": "Vijaya Vittala Institute of Technology, Doddagubbi, Hennur Bagalur Road, Bangalore #35/1, DODDA GUBBI POST, HENNUR-BAGALURU ROAD,BANGALORE"
+  },
+  "E189 - NAVKIS COLLEGE OF ENGINEERING, KIADB Industrial Area,Thimmanahally": {
+    "cet_code": "E189",
+    "full_name": "NAVKIS COLLEGE OF ENGINEERING, KIADB Industrial Area,Thimmanahally, Hassan P.B.NO. 55, NH-48, KIADB INDUSTRIAL AREA, THIMMANAHALLY, HASSAN-573201"
+  },
+  "E191 - Akshaya Institute of Technology, Lingapura": {
+    "cet_code": "E191",
+    "full_name": "Akshaya Institute of Technology, Lingapura, Tumkur Dist. LINGAPURA"
+  },
+  "E193 - Srinivas University SRINIVAS CAMPUS MUKKA MANGALURU": {
+    "cet_code": "E193",
+    "full_name": "Srinivas University SRINIVAS CAMPUS MUKKA MANGALURU"
+  },
+  "E194 - Government Engineering College, Karwar MAJALI VILLAGE, KARWAR TALUK": {
+    "cet_code": "E194",
+    "full_name": "Government Engineering College, Karwar MAJALI VILLAGE, KARWAR TALUK, UTTARA KANNADA DIST, KARNATAKA -PIN 581345"
+  },
+  "E196 - Jain College of Engineering,Machche, Belgaum T.S. NAGAR,HUNCHANHATTI ROAD,MACCHE, BELGAUM- 590014.": {
+    "cet_code": "E196",
+    "full_name": "Jain College of Engineering,Machche, Belgaum T.S. NAGAR,HUNCHANHATTI ROAD,MACCHE, BELGAUM- 590014."
+  },
+  "E197 - Veerappa Nisty Engineering College, Shorapur, Yadigir POST:HASNAPUR, TQ:SHORAPUR": {
+    "cet_code": "E197",
+    "full_name": "Veerappa Nisty Engineering College, Shorapur, Yadigir POST:HASNAPUR, TQ:SHORAPUR, DIST: YADGIR"
+  },
+  "E198 - Sharanbasava University (Exclusively for Women) (Formerly Goduati Engineering College For Women) SHARNBASVESHWARA INSTITUTIONS CAMPUS , KALABURAGI ( GULBARGA) -585103": {
+    "cet_code": "E198",
+    "full_name": "Sharanbasava University (Exclusively for Women) (Formerly Goduati Engineering College For Women) SHARNBASVESHWARA INSTITUTIONS CAMPUS , KALABURAGI ( GULBARGA) -585103 , KARNATAKA"
+  },
+  "E199 - AGM Rural Engineering College, Varur, Hubli NH-4, P.B. ROAD OPP VRL HEAD OFFICE VARUR.,DHARWAD": {
+    "cet_code": "E199",
+    "full_name": "AGM Rural Engineering College, Varur, Hubli NH-4, P.B. ROAD OPP VRL HEAD OFFICE VARUR.,DHARWAD"
+  },
+  "E201 - Gopalan College of Engineering & Management, K.R. Puram": {
+    "cet_code": "E201",
+    "full_name": "Gopalan College of Engineering & Management, K.R. Puram, Bangalore SONNENAHALLI, HOODI VILLAGE, ITPL ROAD,BANGALORE"
+  },
+  "E202 - Sampoorna Group of Institutions, Channapatana": {
+    "cet_code": "E202",
+    "full_name": "Sampoorna Group of Institutions, Channapatana, Ramanagara District BELEKERE, MALLUR HOBLI, CHANNAPATNA TALUK, RAMANAGAR,DISTRICT"
+  },
+  "E203 - K S School of Engineering & Management, Mallasandra": {
+    "cet_code": "E203",
+    "full_name": "K S School of Engineering & Management, Mallasandra, Bangalore #15/1, MALLASANDRA, OFF KANAKAPURA ROAD, BANGALORE - 560062"
+  },
+  "E204 - Bangalore Technological Institute, Sarjapura Road": {
+    "cet_code": "E204",
+    "full_name": "Bangalore Technological Institute, Sarjapura Road, Bangalore SY NO.66/6,66/5,67/6,&67/5, KODATHI VILLAGE, VARTHOOR HOBLI,BANGALORE EAST TQ BANGALORE URBAN"
+  },
+  "E205 - ATME College of Engineering, Mysore SY.NO.1002, HAROHALLI (MELLAHALLI),MYSORE": {
+    "cet_code": "E205",
+    "full_name": "ATME College of Engineering, Mysore SY.NO.1002, HAROHALLI (MELLAHALLI),MYSORE"
+  },
+  "E206 - Shri Madhwa Vadiraja Institute of Technology and Management": {
+    "cet_code": "E206",
+    "full_name": "Shri Madhwa Vadiraja Institute of Technology and Management, Udupi VISHWOTHAMA NAGAR,"
+  },
+  "E207 - V S M`s Somashekhar R Kothiwale Institute of Technology,Nippani, Belgaum. BASAV-VIDYA NAGAR,BELGAUM": {
+    "cet_code": "E207",
+    "full_name": "V S M`s Somashekhar R Kothiwale Institute of Technology,Nippani, Belgaum. BASAV-VIDYA NAGAR,BELGAUM"
+  },
+  "E209 - Jyothi Institute of Technology, Kanakapura Road": {
+    "cet_code": "E209",
+    "full_name": "Jyothi Institute of Technology, Kanakapura Road,Bangalore ,BANGALORE"
+  },
+  "E210 - G Madegowda Institute of Technology, Bharathinagara, Maddur": {
+    "cet_code": "E210",
+    "full_name": "G Madegowda Institute of Technology, Bharathinagara, Maddur, Mandya BHARATHINAGARA (K M DODDY) MADDUR TQ,MANDYA"
+  },
+  "E211 - Jain Institute of Technology": {
+    "cet_code": "E211",
+    "full_name": "Jain Institute of Technology, Davanagere 323, BADA CROSS NEAR BLIND SCHOOL AVARAGERE DAVANGERE"
+  },
+  "E212 - Dayananda Sagar Academy of Technology & Management Technical Campus": {
+    "cet_code": "E212",
+    "full_name": "Dayananda Sagar Academy of Technology & Management Technical Campus, Bangalore(AUTONOMOUS) UDAYAPURA,KANAKAPURA ROAD,BANGALORE URBAN"
+  },
+  "E213 - Lingarajappa Engineering College": {
+    "cet_code": "E213",
+    "full_name": "Lingarajappa Engineering College, Bidar SURVEY NO. 25/1, GORNALLI ,BIDAR"
+  },
+  "E216 - Shetty Institute of Technology": {
+    "cet_code": "E216",
+    "full_name": "Shetty Institute of Technology,Gulbarga 5TH KM RAJAPUR SHAHABAD ROAD GULBARGA"
+  },
+  "E220 - ALLIANCE University Central Campus, Chikkahadage Cross Chandapura-Anekal, Main Road": {
+    "cet_code": "E220",
+    "full_name": "ALLIANCE University Central Campus, Chikkahadage Cross Chandapura-Anekal, Main Road, Bengaluru, Karnataka 562106"
+  },
+  "E221 - Biluru Gurubasava Mahaswamiji Institute of Technology,Mudhol,Bagalkote. MANTUR ROAD, MUDHOL,BAGALKOTE": {
+    "cet_code": "E221",
+    "full_name": "Biluru Gurubasava Mahaswamiji Institute of Technology,Mudhol,Bagalkote. MANTUR ROAD, MUDHOL,BAGALKOTE"
+  },
+  "E222 - Cambridge Institute Of Technology, North Campus, Devanahalli": {
+    "cet_code": "E222",
+    "full_name": "Cambridge Institute Of Technology, North Campus, Devanahalli, Bangalore SURVEY NO. 73, LINGADHEERA GOLLAHALLI, KUNDANA POST, DEVANAHALLI TALUK"
+  },
+  "E225 - SJB School of Achitecture & Planning, Uthrahalli Road, Kengeri": {
+    "cet_code": "E225",
+    "full_name": "SJB School of Achitecture & Planning, Uthrahalli Road, Kengeri, Bangalore 67 BGS Health and Education City, Uttarahalli Road, Kengeri, Bangalore"
+  },
+  "E227 - Cauvery institute of Technology": {
+    "cet_code": "E227",
+    "full_name": "Cauvery institute of Technology, Koppalu gate, Sundahally, Mandya SUNDAHALLI, SIDDAIAHNA KOPPALU GATE, YELIHUR POST, KOTHATHI HOBLI, MANDYA"
+  },
+  "E232 - REVA University RUKMINI KNOWLEDGE PARK, KATTIGENAHALLI, YELAHANKA": {
+    "cet_code": "E232",
+    "full_name": "REVA University RUKMINI KNOWLEDGE PARK, KATTIGENAHALLI, YELAHANKA,BANGALORE - 560064,"
+  },
+  "E235 - M . S . Ramaiah University of Applied Sciences UNIVERSITY HOUSE, GNANAGANGOTHRI CAMPUS, NEW BEL ROAD, MSR ROAD": {
+    "cet_code": "E235",
+    "full_name": "M . S . Ramaiah University of Applied Sciences UNIVERSITY HOUSE, GNANAGANGOTHRI CAMPUS, NEW BEL ROAD, MSR ROAD, BANGALORE - 560054"
+  },
+  "E238 - Mysuru Royal Institute Of Technology,Lakshmipura road": {
+    "cet_code": "E238",
+    "full_name": "Mysuru Royal Institute Of Technology,Lakshmipura road,Mysuru LAKSHMIPURA ROAD, OFF MYSURU -BENGALURU HIGHWAY,MANDYA"
+  },
+  "E239 - East West College Of Engineering, Yelahanka": {
+    "cet_code": "E239",
+    "full_name": "East West College Of Engineering, Yelahanka,Bangalore NO.13 SECTOR \"A\", YELAHANKA NEW TOWN,YELAHANKA, BANGALORE-560064"
+  },
+  "E240 - Dayananda Sagar University DEVARAKAGGALAHALLI VILLAGE, HAROHALLI, KANAKAPURA MAIN ROAD": {
+    "cet_code": "E240",
+    "full_name": "Dayananda Sagar University DEVARAKAGGALAHALLI VILLAGE, HAROHALLI, KANAKAPURA MAIN ROAD, RAMANAGAR DIST"
+  },
+  "E241 - KLE Technological University(Formerly (BVBCET) BVBHOOMARADDI COLLEGE CAMPUS, VIDYANAGAR": {
+    "cet_code": "E241",
+    "full_name": "KLE Technological University(Formerly (BVBCET) BVBHOOMARADDI COLLEGE CAMPUS, VIDYANAGAR, HUBBALLI"
+  },
+  "E252 - Mysore College Of Engineering and Management,Mysore CHIKAHALLI, VARUNA HOBALI, NEAR BIG BANYAN TREE, TN ROAD,MYSORE": {
+    "cet_code": "E252",
+    "full_name": "Mysore College Of Engineering and Management,Mysore CHIKAHALLI, VARUNA HOBALI, NEAR BIG BANYAN TREE, TN ROAD,MYSORE"
+  },
+  "E254 - A J Institute Of Engineering And Technology.Kottar chowki Boloor Village Mangalore KOTTARA CHOWKI BOLOOR VILLAGE": {
+    "cet_code": "E254",
+    "full_name": "A J Institute Of Engineering And Technology.Kottar chowki Boloor Village Mangalore KOTTARA CHOWKI BOLOOR VILLAGE,DAKSHINA KANNADA"
+  },
+  "E255 - GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT GITAM OFF CAMPUS BENGALURU": {
+    "cet_code": "E255",
+    "full_name": "GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT GITAM OFF CAMPUS BENGALURU NH 207, Nagadenehalli Doddaballapur taluk. Bengaluru-561203"
+  },
+  "E256 - RAI TECHNOLOGICAL UNIVERSITY 11TH MILE GALLU, DODDABALLAPUR - NELAMANGALA ROAD, MALLOHALLI VILLAGE KADANUR, DODDABALLAPUR TALUK": {
+    "cet_code": "E256",
+    "full_name": "RAI TECHNOLOGICAL UNIVERSITY 11TH MILE GALLU, DODDABALLAPUR - NELAMANGALA ROAD, MALLOHALLI VILLAGE KADANUR, DODDABALLAPUR TALUK, BENGALURU"
+  },
+  "E257 - CMR University Main Campus, Off Hennur Bagalur Main Road, Chagalatti": {
+    "cet_code": "E257",
+    "full_name": "CMR University Main Campus, Off Hennur Bagalur Main Road, Chagalatti, Bangalore"
+  },
+  "E258 - Maharaja Institute of Technology,Tandavapura,Mysore THANDAVAPURA VILLAGA,ON NATIONAL HIGHWWAYNANJANAGUD TALUK,MYSORE DISTRICT": {
+    "cet_code": "E258",
+    "full_name": "Maharaja Institute of Technology,Tandavapura,Mysore THANDAVAPURA VILLAGA,ON NATIONAL HIGHWWAYNANJANAGUD TALUK,MYSORE DISTRICT"
+  },
+  "E259 - Sir M V School of Architecture,Hunasamaranahalli": {
+    "cet_code": "E259",
+    "full_name": "Sir M V School of Architecture,Hunasamaranahalli, Bangalore KRISHNADEVARAYANAGAR,HUNASAMARANAHALLI,VIA YELAHANKA,BANGALORE - 562 157"
+  },
+  "E263 - School of Planning and Architchure, University of Mysore 2nd Floor, Senate Bhavan, Manasagangotri P.O.,": {
+    "cet_code": "E263",
+    "full_name": "School of Planning and Architchure, University of Mysore 2nd Floor, Senate Bhavan, Manasagangotri P.O., Mysore"
+  },
+  "E264 - BASAV ENGINEERING SCHOOL OF TECHNOLOGY, VIJAYAPURA": {
+    "cet_code": "E264",
+    "full_name": "BASAV ENGINEERING SCHOOL OF TECHNOLOGY, VIJAYAPURA"
+  },
+  "E265 - Jain College of Engineering and Technology": {
+    "cet_code": "E265",
+    "full_name": "Jain College of Engineering and Technology,Hubballi 404/4, 404/5, SAI NAGAR, UNKAL, HUBLI"
+  },
+  "E269 - Jain College Of Engineering and Research, Belgaum SHREYAS CTS 1598 ADAJCENT TO TO FOUNDRY CLUSTER NEAR DUTCH INDUSTRIAL ESTATE CHANNAMMA NAGAR ANAGOL BELGAVI": {
+    "cet_code": "E269",
+    "full_name": "Jain College Of Engineering and Research, Belgaum SHREYAS CTS 1598 ADAJCENT TO TO FOUNDRY CLUSTER NEAR DUTCH INDUSTRIAL ESTATE CHANNAMMA NAGAR ANAGOL BELGAVI"
+  },
+  "E272 - Government Engineering College, Talakal": {
+    "cet_code": "E272",
+    "full_name": "Government Engineering College, Talakal, Koppal TALAKAL,TALUKA: YALABURGA, DIST: KOPPAL, KARNATAKA, PIN 583238"
+  },
+  "E273 - Government Engineering College, Viprasinagar, Gangavathi VIPRASAI NAGAR,GANGAVATHI": {
+    "cet_code": "E273",
+    "full_name": "Government Engineering College, Viprasinagar, Gangavathi VIPRASAI NAGAR,GANGAVATHI,KOPPAL"
+  },
+  "E274 - Government Engineering College, Mosale Hosahalli": {
+    "cet_code": "E274",
+    "full_name": "Government Engineering College, Mosale Hosahalli, Hassan MOSALEHOSAHALLI, HASSAN"
+  },
+  "E275 - R V Institute Of Technology and Management": {
+    "cet_code": "E275",
+    "full_name": "R V Institute Of Technology and Management, Bengaluru KOTHANUR, 8TH PHASE J.P.NAGAR, BENGALURU-560 078."
+  },
+  "E278 - VISVESVARAYA TECHNOLOGICAL UNIVERSITY": {
+    "cet_code": "E278",
+    "full_name": "VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI, VIAT, MUDDENAHALLI CAMPUS, CHIKKABALLAPUR Muddenahalli campus,Chickkaballapur"
+  },
+  "E279 - VISVESVARAYA TECHNOLOGICAL UNIVERSITY": {
+    "cet_code": "E279",
+    "full_name": "VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI CAMPUS, BELAGAVI JNANA SANGAMA, MACHHE, BELAGAVI"
+  },
+  "E281 - Government Engineering College, Challakere": {
+    "cet_code": "E281",
+    "full_name": "Government Engineering College, Challakere, Chitradurga BALLARI ROAD CHALLAKERE,CHITRADURGA"
+  },
+  "E283 - University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES, (DOS IN BUSSINESS ADMINISTRATION)UNIVERSITY OF MYSORE, MANASAGANGOTRI,HUNSUR ROAD,MYSORE.": {
+    "cet_code": "E283",
+    "full_name": "University of Mysuru B.N.BAHADUR INSTITUTE OF MANAGEMENT SCIENCES, (DOS IN BUSSINESS ADMINISTRATION)UNIVERSITY OF MYSORE, MANASAGANGOTRI,HUNSUR ROAD,MYSORE."
+  },
+  "E284 - Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University), Mysore JSS TECHNICAL INSTITUTIONS CAMPUS,MANASAGANGOTHRI PO,MYSORE": {
+    "cet_code": "E284",
+    "full_name": "Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University), Mysore JSS TECHNICAL INSTITUTIONS CAMPUS,MANASAGANGOTHRI PO,MYSORE"
+  },
+  "E285 - RV University R.V. VIDYANIKETAN POST, MYSORE ROAD": {
+    "cet_code": "E285",
+    "full_name": "RV University R.V. VIDYANIKETAN POST, MYSORE ROAD,BANGALORE"
+  },
+  "E286 - BGS College of Engineering & Technology": {
+    "cet_code": "E286",
+    "full_name": "BGS College of Engineering & Technology,Bangalore"
+  },
+  "E287 - Vidyashilp University #125, Bettenahalli, Kundana Hobli, Chapparkallu Rd": {
+    "cet_code": "E287",
+    "full_name": "Vidyashilp University #125, Bettenahalli, Kundana Hobli, Chapparkallu Rd, Bengaluru, Karnataka 562110"
+  },
+  "E288 - Garden City University 16th KM, Old Madras Road (Near K R Puram)": {
+    "cet_code": "E288",
+    "full_name": "Garden City University 16th KM, Old Madras Road (Near K R Puram), Bangalore, Karnataka, 560049."
+  },
+  "E289 - Visvesvaraya Technological University,VTU,CPGS,Kalburgi.": {
+    "cet_code": "E289",
+    "full_name": "Visvesvaraya Technological University,VTU,CPGS,Kalburgi."
+  },
+  "E290 - Visvesvaraya Technological University,VTU,CPGS": {
+    "cet_code": "E290",
+    "full_name": "Visvesvaraya Technological University,VTU,CPGS,Mysuru."
+  },
+  "E291 - Government Engineering College,Naragund": {
+    "cet_code": "E291",
+    "full_name": "Government Engineering College,Naragund,Gadag"
+  },
+  "E292 - Government Engineering College,Mailur": {
+    "cet_code": "E292",
+    "full_name": "Government Engineering College,Mailur,Bidar"
+  },
+  "E297 - ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY": {
+    "cet_code": "E297",
+    "full_name": "ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY SURVEY NO 2/8 2/9 AND 2/2, KAMAKSHIPURA, SONNENAHALLI PANCHAYATH, HESARAGHATTA HOBLI, YELAHANKA"
+  },
+  "E299 - Ghousia Institute of Technology for Women": {
+    "cet_code": "E299",
+    "full_name": "Ghousia Institute of Technology for Women, Bangalore Hosur Road, DRC Post, Banglaore-29"
+  },
+  "E300 - AKASH INTITUTE OF ENGINEERING AND TECHNOLOGY PRASANNAHALLI MAIN RAOD, AKKUPETE VILLAGE, KASABA HOBLI": {
+    "cet_code": "E300",
+    "full_name": "AKASH INTITUTE OF ENGINEERING AND TECHNOLOGY PRASANNAHALLI MAIN RAOD, AKKUPETE VILLAGE, KASABA HOBLI"
+  },
+  "E301 - KISHKINDA UNIVERSITY BALLARI INSTITUTE OF TECHNOLOGY & MANAGEMENT (BITM) CAMPUS, BALLARI-HOSPET ROAD, NEAR ALLIPUR, BALLARI-583104": {
+    "cet_code": "E301",
+    "full_name": "KISHKINDA UNIVERSITY BALLARI INSTITUTE OF TECHNOLOGY & MANAGEMENT (BITM) CAMPUS, BALLARI-HOSPET ROAD, NEAR ALLIPUR, BALLARI-583104"
+  },
+  "E302 - AMITY UNIVERSITY National Highway 648 (old 207), Devanahalli - Doddaballapur Road": {
+    "cet_code": "E302",
+    "full_name": "AMITY UNIVERSITY National Highway 648 (old 207), Devanahalli - Doddaballapur Road"
+  },
+  "E303 - GM University KARUR VILLAGE, KASABA HOBLI, DAVANGERE TALUK AND DISTRICT": {
+    "cet_code": "E303",
+    "full_name": "GM University KARUR VILLAGE, KASABA HOBLI, DAVANGERE TALUK AND DISTRICT"
+  },
+  "E304 - ANUVARTIK MIRJI BHARATESH INSTITUTE OF TECHNOLOGY BELAGAVI": {
+    "cet_code": "E304",
+    "full_name": "ANUVARTIK MIRJI BHARATESH INSTITUTE OF TECHNOLOGY BELAGAVI"
+  },
+  "E305 - DR H N NATIONAL COLLEGE OF ENGINEERING BENGALURU": {
+    "cet_code": "E305",
+    "full_name": "DR H N NATIONAL COLLEGE OF ENGINEERING BENGALURU"
+  },
+  "E306 - THE CHANAKYA UNIVERSITY NO 29 HARALURU, DEVANAHALLI TALUK (NEAR BENGALURU INTERNATIONLA AIRPORT)": {
+    "cet_code": "E306",
+    "full_name": "THE CHANAKYA UNIVERSITY NO 29 HARALURU, DEVANAHALLI TALUK (NEAR BENGALURU INTERNATIONLA AIRPORT)"
+  },
+  "E307 - SESHADRIPURAM INSTITUTE OF TECHNOLOGY MYSURU MYSURU": {
+    "cet_code": "E307",
+    "full_name": "SESHADRIPURAM INSTITUTE OF TECHNOLOGY MYSURU MYSURU"
+  },
+  "E308 - CONSTITUENT COLLEGE OF VTU, CHINTAMANI CHIKABALLAPURA DIST CHIKBALLAPURA": {
+    "cet_code": "E308",
+    "full_name": "CONSTITUENT COLLEGE OF VTU, CHINTAMANI CHIKABALLAPURA DIST CHIKBALLAPURA"
+  },
+  "E309 - CONSTITUENT COLLEGE OF VTU, CHINTAMANI CHIKABALLAPURA DIST CHIKBALLAPURA": {
+    "cet_code": "E309",
+    "full_name": "CONSTITUENT COLLEGE OF VTU, CHINTAMANI CHIKABALLAPURA DIST CHIKBALLAPURA"
+  },
+  "E310 - GOVERNMENT ENGINEERING COLLEGE, ARASIKERE ARASIKERE": {
+    "cet_code": "E310",
+    "full_name": "GOVERNMENT ENGINEERING COLLEGE, ARASIKERE ARASIKERE, HASSAN DISTRICT"
+  },
+  "E311 - RATHINAM INSTITUTE OF TECHNOLOGY DODDAKAMMANAHALLY VILLAGE, BEGUR HOBLI": {
+    "cet_code": "E311",
+    "full_name": "RATHINAM INSTITUTE OF TECHNOLOGY DODDAKAMMANAHALLY VILLAGE, BEGUR HOBLI,"
+  },
+  "E312 - NEW EBENEZER INSTITUTE OF TECHNOLOGY HENNUR BAGALUR MAIN ROAD, KOTHNUR POST": {
+    "cet_code": "E312",
+    "full_name": "NEW EBENEZER INSTITUTE OF TECHNOLOGY HENNUR BAGALUR MAIN ROAD, KOTHNUR POST,"
+  },
+  "E313 - HARSHA INSTITUTE OF TECHNOLOGY VARADANAYAKANA HALLY VILLAGE, NELAMANGALA TALUK": {
+    "cet_code": "E313",
+    "full_name": "HARSHA INSTITUTE OF TECHNOLOGY VARADANAYAKANA HALLY VILLAGE, NELAMANGALA TALUK,"
+  },
+  "E314 - CAUVERY COLLEGE OF ENGINEERING KBL LAYOUT, ALANAHALLY": {
+    "cet_code": "E314",
+    "full_name": "CAUVERY COLLEGE OF ENGINEERING KBL LAYOUT, ALANAHALLY MYSORE"
+  },
+  "E315 - VTU Constituent Engineering College, Gokak": {
+    "cet_code": "E315",
+    "full_name": "VTU Constituent Engineering College, Gokak"
+  },
+  "E002 - S K S J T Institute of Engineering.": {
+    "cet_code": "E002",
+    "full_name": "S K S J T Institute of Engineering. Bangalore"
+  },
+  "E003 - B M S College of Engineering Basavanagudi": {
+    "cet_code": "E003",
+    "full_name": "B M S College of Engineering Basavanagudi,Bangalore"
+  },
+  "E004 - Dr. Ambedkar Institute Of Technology": {
+    "cet_code": "E004",
+    "full_name": "Dr. Ambedkar Institute Of Technology Bangalore"
+  },
+  "E006 - M S Ramaiah Institute of Technology": {
+    "cet_code": "E006",
+    "full_name": "M S Ramaiah Institute of Technology Bangalore"
+  },
+  "E008 - Bangalore Institute of Technology": {
+    "cet_code": "E008",
+    "full_name": "Bangalore Institute of Technology Bangalore"
+  },
+  "E009 - P E S University (Ring Road Campus)": {
+    "cet_code": "E009",
+    "full_name": "P E S University (Ring Road Campus) Bangalore"
+  },
+  "E012 - Sir M.Visveswaraya Institute of Technology Hunasemaranahalli": {
+    "cet_code": "E012",
+    "full_name": "Sir M.Visveswaraya Institute of Technology Hunasemaranahalli,Bangalore,"
+  },
+  "E013 - Ghousia Engineering College Ramanagara": {
+    "cet_code": "E013",
+    "full_name": "Ghousia Engineering College Ramanagara"
+  },
+  "E014 - S J C Institute of Technology Chickballapur": {
+    "cet_code": "E014",
+    "full_name": "S J C Institute of Technology Chickballapur"
+  },
+  "E015 - Dr.T.Thimmaiah Institute of Technology BANGARAPET -TQ kolar District": {
+    "cet_code": "E015",
+    "full_name": "Dr.T.Thimmaiah Institute of Technology BANGARAPET -TQ kolar District"
+  },
+  "E017 - Sri Siddartha Institute of Technology": {
+    "cet_code": "E017",
+    "full_name": "Sri Siddartha Institute of Technology Tumkur"
+  },
+  "E018 - Kalpatharu Institute of Technology Tiptur": {
+    "cet_code": "E018",
+    "full_name": "Kalpatharu Institute of Technology Tiptur"
+  },
+  "E021 - Sri Jayachamarajendra College of Engineering(Const. of JSS Univ.)": {
+    "cet_code": "E021",
+    "full_name": "Sri Jayachamarajendra College of Engineering(Const. of JSS Univ.) Mysore"
+  },
+  "E022 - The National Institute of Engineering": {
+    "cet_code": "E022",
+    "full_name": "The National Institute of Engineering Mysore"
+  },
+  "E023 - P E S College of Engineering Mandya": {
+    "cet_code": "E023",
+    "full_name": "P E S College of Engineering Mandya"
+  },
+  "E028 - Tontadarya College of Engineering Gadag": {
+    "cet_code": "E028",
+    "full_name": "Tontadarya College of Engineering Gadag"
+  },
+  "E029 - Maratha Mandal Engineering College": {
+    "cet_code": "E029",
+    "full_name": "Maratha Mandal Engineering College Belgaum"
+  },
+  "E030 - KLE Technological University(Formerly BVBCET)": {
+    "cet_code": "E030",
+    "full_name": "KLE Technological University(Formerly BVBCET) Hubli"
+  },
+  "E031 - Basaveshwara Engineering College Bagalkot": {
+    "cet_code": "E031",
+    "full_name": "Basaveshwara Engineering College Bagalkot"
+  },
+  "E032 - R.T.E Socity`s Rural Engineering College Hulkoti": {
+    "cet_code": "E032",
+    "full_name": "R.T.E Socity`s Rural Engineering College Hulkoti"
+  },
+  "E033 - Sri Taralabalu Jagadguru Institute of Technology. Ranebennur": {
+    "cet_code": "E033",
+    "full_name": "Sri Taralabalu Jagadguru Institute of Technology. Ranebennur"
+  },
+  "E034 - Sri Dharmasthala Manjunatheswara College of Engineering Dharwad": {
+    "cet_code": "E034",
+    "full_name": "Sri Dharmasthala Manjunatheswara College of Engineering Dharwad"
+  },
+  "E035 - Anjuman Engineering College Bhatkala, Uttar kannada Dist": {
+    "cet_code": "E035",
+    "full_name": "Anjuman Engineering College Bhatkala, Uttar kannada Dist"
+  },
+  "E036 - KLE Technological University(Formerly KLE Dr.MS Sheshagiri Col.)": {
+    "cet_code": "E036",
+    "full_name": "KLE Technological University(Formerly KLE Dr.MS Sheshagiri Col.) Belgaum"
+  },
+  "E037 - K.L.S. Gogte Institute of Technology": {
+    "cet_code": "E037",
+    "full_name": "K.L.S. Gogte Institute of Technology Belgaum"
+  },
+  "E038 - B L D E As V.P. Dr. P. G. Hallakatti College of Engineering and Tech. vijayapur": {
+    "cet_code": "E038",
+    "full_name": "B L D E As V.P. Dr. P. G. Hallakatti College of Engg. and Tech. vijayapur"
+  },
+  "E040 - Hira Sugar Institute of Technology Belagavi District": {
+    "cet_code": "E040",
+    "full_name": "Hira Sugar Institute of Technology Belagavi District,"
+  },
+  "E042 - Khaja Banda Nawaz University Kalburgi": {
+    "cet_code": "E042",
+    "full_name": "Khaja Banda Nawaz University Kalburgi"
+  },
+  "E043 - Gurunanak Dev Engineering College Bidar": {
+    "cet_code": "E043",
+    "full_name": "Gurunanak Dev Engineering College Bidar"
+  },
+  "E044 - Bheemanna Khandre Institute of Technology Bhalki": {
+    "cet_code": "E044",
+    "full_name": "Bheemanna Khandre Institute of Technology Bhalki"
+  },
+  "E045 - Rao Bahadur Y.Mahabaleswarappa Engineering College Bellari": {
+    "cet_code": "E045",
+    "full_name": "Rao Bahadur Y.Mahabaleswarappa Engineering College Bellari"
+  },
+  "E046 - H K Es S L N College of Engineering Raichur": {
+    "cet_code": "E046",
+    "full_name": "H K Es S L N College of Engineering Raichur"
+  },
+  "E048 - B M S College of Engineering Basavanagudi": {
+    "cet_code": "E048",
+    "full_name": "B M S College of Engineering Basavanagudi,Bangalore"
+  },
+  "E049 - Basaveshwara Engineering College Bagalkot": {
+    "cet_code": "E049",
+    "full_name": "Basaveshwara Engineering College Bagalkot"
+  },
+  "E053 - N M A M Institutute of Technology Nitte": {
+    "cet_code": "E053",
+    "full_name": "N M A M Institutute of Technology Nitte"
+  },
+  "E054 - K V G College of Engineering Sullia,D.K District": {
+    "cet_code": "E054",
+    "full_name": "K V G College of Engineering Sullia,D.K District"
+  },
+  "E055 - P A College of Engineering Bantwal,": {
+    "cet_code": "E055",
+    "full_name": "P A College of Engineering Bantwal, Mangalore"
+  },
+  "E056 - The National Institute of Engineering": {
+    "cet_code": "E056",
+    "full_name": "The National Institute of Engineering Mysore"
+  },
+  "E057 - JSS Science and Technology University(Formerly SJCE)": {
+    "cet_code": "E057",
+    "full_name": "JSS Science and Technology University(Formerly SJCE) Mysore"
+  },
+  "E058 - P E S College of Engineering Mandya": {
+    "cet_code": "E058",
+    "full_name": "P E S College of Engineering Mandya"
+  },
+  "E060 - Dr. Ambedkar Institute Of Technology Jnanabharathi Campus": {
+    "cet_code": "E060",
+    "full_name": "Dr. Ambedkar Institute Of Technology Jnanabharathi Campus,Bangalore"
+  },
+  "E061 - University B.D.T. college of Engineering": {
+    "cet_code": "E061",
+    "full_name": "University B.D.T. college of Engineering Davangere"
+  },
+  "E062 - Bapuji Institute of Engineering and Technology": {
+    "cet_code": "E062",
+    "full_name": "Bapuji Institute of Engineering and Technology Davangere"
+  },
+  "E063 - S J M Institute of Technology Chitradurga": {
+    "cet_code": "E063",
+    "full_name": "S J M Institute of Technology Chitradurga"
+  },
+  "E064 - Adhichunchanagiri Institute of Technology Chickmagalur": {
+    "cet_code": "E064",
+    "full_name": "Adhichunchanagiri Institute of Technology Chickmagalur"
+  },
+  "E065 - Jawaharlal Nehru National College of Engineering Shimoga": {
+    "cet_code": "E065",
+    "full_name": "Jawaharlal Nehru National College of Engineering Shimoga"
+  },
+  "E070 - Bahubali College of Engineering Hassan Dist": {
+    "cet_code": "E070",
+    "full_name": "Bahubali College of Engineering Hassan Dist,"
+  },
+  "E071 - Vidya Vardhaka College of Engineering Mysuru": {
+    "cet_code": "E071",
+    "full_name": "Vidya Vardhaka College of Engineering Mysuru"
+  },
+  "E075 - Ballari Institute of Technology and Management Near Allipur Bellary": {
+    "cet_code": "E075",
+    "full_name": "Ballari Institute of Technology and Management Near Allipur Bellary"
+  },
+  "E076 - Proudadevaraya Institute of Technology Indiranagar Hospet, Ballari DT": {
+    "cet_code": "E076",
+    "full_name": "Proudadevaraya Institute of Technology Indiranagar Hospet, Ballari DT"
+  },
+  "E077 - Vidya Vikas Institute of Engineering and Technology Mysuru": {
+    "cet_code": "E077",
+    "full_name": "Vidya Vikas Institute of Engineering and Technology Mysuru"
+  },
+  "E079 - Acharya Institute of Technology": {
+    "cet_code": "E079",
+    "full_name": "Acharya Institute of Technology Bangalore"
+  },
+  "E081 - H M S Institute of Technology": {
+    "cet_code": "E081",
+    "full_name": "H M S Institute of Technology Tumkur"
+  },
+  "E085 - APS College of Engineering Somanahalli": {
+    "cet_code": "E085",
+    "full_name": "APS College of Engineering Somanahalli, Bangalore"
+  },
+  "E086 - Sri Sairam College of Engineering(Formerly Shirdi Sai Engineering) Anekal": {
+    "cet_code": "E086",
+    "full_name": "Sri Sairam College of Engineering(Formerly Shirdi Sai Engg) Anekal,Bangalore"
+  },
+  "E087 - Vivekananada Institute of Technology": {
+    "cet_code": "E087",
+    "full_name": "Vivekananada Institute of Technology Bangalore"
+  },
+  "E088 - Bangalore College of Engineering and Technology Chandapura": {
+    "cet_code": "E088",
+    "full_name": "Bangalore College of Engineering and Technology Chandapura, Bangalore"
+  },
+  "E090 - Sri Revana Siddeswara Institute of Technology Bangalore North": {
+    "cet_code": "E090",
+    "full_name": "Sri Revana Siddeswara Institute of Technology Bangalore North"
+  },
+  "E091 - K S Institute of Technology": {
+    "cet_code": "E091",
+    "full_name": "K S Institute of Technology Bangalore"
+  },
+  "E093 - Basavakalyana Engineering College Basavakalyana": {
+    "cet_code": "E093",
+    "full_name": "Basavakalyana Engineering College Basavakalyana, Bidar-Dist"
+  },
+  "E094 - Coorg Institute of Technology Kodagu": {
+    "cet_code": "E094",
+    "full_name": "Coorg Institute of Technology Kodagu"
+  },
+  "E095 - AMC Engineering College": {
+    "cet_code": "E095",
+    "full_name": "AMC Engineering College Bangalore"
+  },
+  "E096 - East Point College of Engineering and Technology": {
+    "cet_code": "E096",
+    "full_name": "East Point College of Engineering and Technology Bangalore"
+  },
+  "E097 - C M R Institute of Technology": {
+    "cet_code": "E097",
+    "full_name": "C M R Institute of Technology Bangalore"
+  },
+  "E098 - Atria Institute of Technology": {
+    "cet_code": "E098",
+    "full_name": "Atria Institute of Technology Bangalore"
+  },
+  "E099 - New Horizon College of Engineering": {
+    "cet_code": "E099",
+    "full_name": "New Horizon College of Engineering Bangalore"
+  },
+  "E101 - Channabasaveshwara Institute of Technology Gubbi": {
+    "cet_code": "E101",
+    "full_name": "Channabasaveshwara Institute of Technology Gubbi, Tumkur"
+  },
+  "E104 - Nagarjuna College of Engineering and Technology Bangalore (R)": {
+    "cet_code": "E104",
+    "full_name": "Nagarjuna College of Engineering and Technology Bangalore (R)"
+  },
+  "E105 - Nitte Meenakshi Institutute of Technology": {
+    "cet_code": "E105",
+    "full_name": "Nitte Meenakshi Institutute of Technology Bangalore"
+  },
+  "E106 - East West Institute of Technology": {
+    "cet_code": "E106",
+    "full_name": "East West Institute of Technology Bangalore"
+  },
+  "E108 - Sapthagiri College of Engineering": {
+    "cet_code": "E108",
+    "full_name": "Sapthagiri College of Engineering Bangalore"
+  },
+  "E109 - City Engineering College": {
+    "cet_code": "E109",
+    "full_name": "City Engineering College Bangalore"
+  },
+  "E111 - Sri Venkateshwara College of Engineering Bettahalsur(P)": {
+    "cet_code": "E111",
+    "full_name": "Sri Venkateshwara College of Engineering Bettahalsur(P), Bangalore"
+  },
+  "E114 - G M Institute of Technology Davanagere": {
+    "cet_code": "E114",
+    "full_name": "G M Institute of Technology Davanagere"
+  },
+  "E115 - S J B Institute of Technology Kengeri": {
+    "cet_code": "E115",
+    "full_name": "S J B Institute of Technology Kengeri,Bangalore (ATNMS)"
+  },
+  "E116 - R.L.Jalappa Institute of Technology Bangalore Rural Dist": {
+    "cet_code": "E116",
+    "full_name": "R.L.Jalappa Institute of Technology Bangalore Rural Dist"
+  },
+  "E119 - K C T Engineering College Roza(B)": {
+    "cet_code": "E119",
+    "full_name": "K C T Engineering College Roza(B),Gulbarga"
+  },
+  "E120 - Jnanavikasa Institute of Technology Ramanagar-Dist": {
+    "cet_code": "E120",
+    "full_name": "Jnanavikasa Institute of Technology Ramanagar-Dist"
+  },
+  "E121 - Vivekananada College of Engineering Technology D K DIST": {
+    "cet_code": "E121",
+    "full_name": "Vivekananada College of Engineering Technology D K DIST"
+  },
+  "E123 - Canara Engineering College Bantwal DK DIST": {
+    "cet_code": "E123",
+    "full_name": "Canara Engineering College Bantwal DK DIST"
+  },
+  "E124 - Rajiv Gandhi Institute of Technology R.T Nagar Post": {
+    "cet_code": "E124",
+    "full_name": "Rajiv Gandhi Institute of Technology R.T Nagar Post, Bangalore"
+  },
+  "E126 - B M S Institute of Technology and Management Yelahanka": {
+    "cet_code": "E126",
+    "full_name": "B M S Institute of Technology and Management Yelahanka, Bangalore"
+  },
+  "E127 - M S Engineering College Bangalore Urban": {
+    "cet_code": "E127",
+    "full_name": "M S Engineering College Bangalore Urban"
+  },
+  "E128 - Sharnbasva University(Formerly Appa Inst. of Tech.) Brahmpur, Kalaburagi": {
+    "cet_code": "E128",
+    "full_name": "Sharnbasva University(Formerly Appa Inst. of Tech.) Brahmpur, Kalaburagi"
+  },
+  "E129 - St. Joseph Engineering College": {
+    "cet_code": "E129",
+    "full_name": "St. Joseph Engineering College Mangalore"
+  },
+  "E130 - Shridevi Institute of Engineering and Technology": {
+    "cet_code": "E130",
+    "full_name": "Shridevi Institute of Engineering and Technology Tumkur"
+  },
+  "E132 - Secab Institute of Engineering and Technology Bijapur": {
+    "cet_code": "E132",
+    "full_name": "Secab Institute of Engineering and Technology Bijapur"
+  },
+  "E133 - G S S S Institute of Engineering and Technology for Women": {
+    "cet_code": "E133",
+    "full_name": "G S S S Institute of Engineering and Technology for Women Mysore"
+  },
+  "E134 - Smt. Kamala and Sri Venkappa M.Agadi College of Engineering and Tech. Laxmeshwara-Tq": {
+    "cet_code": "E134",
+    "full_name": "Smt. Kamala and Sri Venkappa M.Agadi College of Engg. and Tech. Laxmeshwara-Tq, Gadag Dt."
+  },
+  "E135 - K L S Viswanathrao Deshpande Institute of Technology Haliyal": {
+    "cet_code": "E135",
+    "full_name": "K L S Viswanathrao Deshpande Institute of Technology Haliyal, Uttara Kannada -Dist"
+  },
+  "E136 - Moodalakatte Institute of Technology Udupi District": {
+    "cet_code": "E136",
+    "full_name": "Moodalakatte Institute of Technology Udupi District"
+  },
+  "E139 - Impact College of Engineering and Applied Sciences": {
+    "cet_code": "E139",
+    "full_name": "Impact College of Engineering and Applied Sciences Bangalore"
+  },
+  "E141 - P E S University (Electronic City Campus)": {
+    "cet_code": "E141",
+    "full_name": "P E S University (Electronic City Campus) Bangalore"
+  },
+  "E142 - Adichunchanagiri University(Formerly BGSIT) Nagamangala Taluk": {
+    "cet_code": "E142",
+    "full_name": "Adichunchanagiri University(Formerly BGSIT) Nagamangala Taluk,Mandya Dist."
+  },
+  "E144 - Srinivas Institute of Technology Mangalore.": {
+    "cet_code": "E144",
+    "full_name": "Srinivas Institute of Technology Mangalore."
+  },
+  "E145 - Rajarajeswari College of Engineering Kumbalagodu": {
+    "cet_code": "E145",
+    "full_name": "Rajarajeswari College of Engineering Kumbalagodu,Bangalore"
+  },
+  "E146 - Shreedevi Institute of Technology Kenjar,": {
+    "cet_code": "E146",
+    "full_name": "Shreedevi Institute of Technology Kenjar, Mangalore"
+  },
+  "E147 - T.John Engineering College": {
+    "cet_code": "E147",
+    "full_name": "T.John Engineering College Bangalore"
+  },
+  "E149 - Cambridge Institutute of Technology": {
+    "cet_code": "E149",
+    "full_name": "Cambridge Institutute of Technology Bangalore"
+  },
+  "E150 - P E S Institute of Technology and Management Shivamogga": {
+    "cet_code": "E150",
+    "full_name": "P E S Institute of Technology and Management Shivamogga"
+  },
+  "E151 - Mangalore Institute of Technology and Engineering Mangalore Tq,D.K": {
+    "cet_code": "E151",
+    "full_name": "Mangalore Institute of Technology and Engineering Mangalore Tq,D.K"
+  },
+  "E152 - S D M Institute of Tech. Ujire": {
+    "cet_code": "E152",
+    "full_name": "S D M Institute of Tech. Ujire,Dakshina Kannada"
+  },
+  "E153 - S E A College of Engineering and Technology K R puram": {
+    "cet_code": "E153",
+    "full_name": "S E A College of Engineering and Technology K R puram bangalore"
+  },
+  "E154 - Government Engineering College Chamarajanagara": {
+    "cet_code": "E154",
+    "full_name": "Government Engineering College Chamarajanagara"
+  },
+  "E156 - Government Engineering College K R Pet": {
+    "cet_code": "E156",
+    "full_name": "Government Engineering College K R Pet, Mandya DT."
+  },
+  "E157 - Government Engineering College Ramanagara": {
+    "cet_code": "E157",
+    "full_name": "Government Engineering College Ramanagara"
+  },
+  "E158 - Maharaja Institute of Technology-Mysore Belawadi": {
+    "cet_code": "E158",
+    "full_name": "Maharaja Institute of Technology-Mysore Belawadi, Mandya Dist"
+  },
+  "E159 - Karavali Institute of Technology": {
+    "cet_code": "E159",
+    "full_name": "Karavali Institute of Technology Mangalore"
+  },
+  "E160 - Sahyadri College of Engineering and Management": {
+    "cet_code": "E160",
+    "full_name": "Sahyadri College of Engg. and Management Mangalore"
+  },
+  "E161 - Government Engineering College Kushalnagar,Kodagu Dist": {
+    "cet_code": "E161",
+    "full_name": "Government Engineering College Kushalnagar,Kodagu Dist"
+  },
+  "E162 - Government Engineering College Raichur": {
+    "cet_code": "E162",
+    "full_name": "Government Engineering College Raichur"
+  },
+  "E163 - Government Engineering College Devagiri,Haveri": {
+    "cet_code": "E163",
+    "full_name": "Government Engineering College Devagiri,Haveri"
+  },
+  "E164 - Government Engineering College Huvina Hadagali": {
+    "cet_code": "E164",
+    "full_name": "Government Engineering College Huvina Hadagali,Bellary Dist."
+  },
+  "E165 - Yenepoya Institute of Technology Thodar,Moodbidri": {
+    "cet_code": "E165",
+    "full_name": "Yenepoya Institute of Technology Thodar,Moodbidri"
+  },
+  "E166 - K L E Institute of Technology": {
+    "cet_code": "E166",
+    "full_name": "K L E Institute of Technology Hubli"
+  },
+  "E167 - K L E Ss K L E College of Engineering and Technology Chikkodi, Belgaum Dist.": {
+    "cet_code": "E167",
+    "full_name": "K L E Ss K L E College of Engineering and Technology Chikkodi, Belgaum Dist."
+  },
+  "E168 - Amrutha Institute of Engineering and Mangement Bidadi Indust. Estate,Ban'lore": {
+    "cet_code": "E168",
+    "full_name": "Amrutha Institute of Engineering and Mangement Bidadi Indust. Estate,Ban'lore"
+  },
+  "E169 - Alva`s Institute of Engineering and Technology Moodabidri": {
+    "cet_code": "E169",
+    "full_name": "Alva`s Institute of Engineering and Technology Moodabidri,"
+  },
+  "E171 - Brindavan College of Engineering Yelahanka": {
+    "cet_code": "E171",
+    "full_name": "Brindavan College of Engineering Yelahanka, Bangalore"
+  },
+  "E172 - R.R.Institute of Technology Chikkabanavara": {
+    "cet_code": "E172",
+    "full_name": "R.R.Institute of Technology Chikkabanavara, Bangalore"
+  },
+  "E173 - Sai Vidya Institute of Technology": {
+    "cet_code": "E173",
+    "full_name": "Sai Vidya Institute of Technology Bangalore"
+  },
+  "E174 - Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering Bangalore Rural -Dist": {
+    "cet_code": "E174",
+    "full_name": "Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering Bangalore Rural -Dist,"
+  },
+  "E175 - S.G.Balekundri Institute of Technology": {
+    "cet_code": "E175",
+    "full_name": "S.G.Balekundri Institute of Technology Belgaum"
+  },
+  "E176 - Navodaya Institute of Technology": {
+    "cet_code": "E176",
+    "full_name": "Navodaya Institute of Technology Raihcur"
+  },
+  "E177 - Rajeev Institute of Technology Bommanayankanahally": {
+    "cet_code": "E177",
+    "full_name": "Rajeev Institute of Technology Bommanayankanahally, Hassan"
+  },
+  "E178 - N I E Institute of Technology": {
+    "cet_code": "E178",
+    "full_name": "N I E Institute of Technology Mysore"
+  },
+  "E180 - Bearys Institute of Technology": {
+    "cet_code": "E180",
+    "full_name": "Bearys Institute of Technology Mangalore"
+  },
+  "E181 - Sri Basaveswara Institute of Technology Tiptur": {
+    "cet_code": "E181",
+    "full_name": "Sri Basaveswara Institute of Technology Tiptur, Tumkur(D)"
+  },
+  "E183 - Sha-Shib College of Engineering Chickballapur": {
+    "cet_code": "E183",
+    "full_name": "Sha-Shib College of Engineering Chickballapur"
+  },
+  "E184 - C Byre Gowda Institute of Technology Kolar": {
+    "cet_code": "E184",
+    "full_name": "C Byre Gowda Institute of Technology Kolar"
+  },
+  "E185 - Angadi Institute of Technology and Management": {
+    "cet_code": "E185",
+    "full_name": "Angadi Institute of Technology and Management Belgaum"
+  },
+  "E186 - ACS College of Engineering Kengeri Hobli": {
+    "cet_code": "E186",
+    "full_name": "ACS College of Engineering Kengeri Hobli,Bangalore"
+  },
+  "E188 - Vijaya Vittala Institute of Technology": {
+    "cet_code": "E188",
+    "full_name": "Vijaya Vittala Institute of Technology Bangalore"
+  },
+  "E189 - Navkis College of Engineering (Formerly NDRKIT) Kandali": {
+    "cet_code": "E189",
+    "full_name": "Navkis College of Engineering (Formerly NDRKIT) Kandali, Hassan"
+  },
+  "E191 - Akshaya Institute of Technology": {
+    "cet_code": "E191",
+    "full_name": "Akshaya Institute of Technology Tumkur"
+  },
+  "E193 - Srinivas University Mukka, Suratkal,": {
+    "cet_code": "E193",
+    "full_name": "Srinivas University Mukka, Suratkal, Mangalore"
+  },
+  "E194 - Government Engineering College KARWAR": {
+    "cet_code": "E194",
+    "full_name": "Government Engineering College KARWAR"
+  },
+  "E196 - Jain College of Engineering Machche,Belgaum": {
+    "cet_code": "E196",
+    "full_name": "Jain College of Engineering Machche,Belgaum"
+  },
+  "E197 - Veerappa Nisty Engineering College Yadigir Dist": {
+    "cet_code": "E197",
+    "full_name": "Veerappa Nisty Engineering College Yadigir Dist"
+  },
+  "E198 - Sharnbasva University College for Women(Formerly Godutai)": {
+    "cet_code": "E198",
+    "full_name": "Sharnbasva University College for Women(Formerly Godutai) Gulbarga"
+  },
+  "E199 - AGM Rural Engineering College Hubli, Darward (D)": {
+    "cet_code": "E199",
+    "full_name": "AGM Rural Engineering College Hubli, Darward (D)"
+  },
+  "E201 - Gopalan College of Engineering and Management White Field": {
+    "cet_code": "E201",
+    "full_name": "Gopalan College of Engineering and Management White Field, Bangalore"
+  },
+  "E202 - Sampoorna Institute of Technology and Research Ramanagara (D)": {
+    "cet_code": "E202",
+    "full_name": "Sampoorna Institute of Technology and Research Ramanagara (D)"
+  },
+  "E203 - K.S. School of Engineering And Management Mallasandra": {
+    "cet_code": "E203",
+    "full_name": "K.S. School of Engineering And Management Mallasandra, Bangalore"
+  },
+  "E204 - Bangalore Technological Institute Sarjapura Rd": {
+    "cet_code": "E204",
+    "full_name": "Bangalore Technological Institute Sarjapura Rd, Bangalore"
+  },
+  "E205 - ATME College of Engineering Varun hobli,Mysore": {
+    "cet_code": "E205",
+    "full_name": "ATME College of Engineering Varun hobli,Mysore"
+  },
+  "E206 - Shri Madhwa Vadiraja Institute of Technology and Management Udupi Dist": {
+    "cet_code": "E206",
+    "full_name": "Shri Madhwa Vadiraja Institute of Technology and Management Udupi Dist"
+  },
+  "E207 - VSMs Somashekar R Kothiwale Institute of Technology Nippani, Belgaum- Dist": {
+    "cet_code": "E207",
+    "full_name": "VSMs Somashekar R Kothiwale Institute of Technology Nippani, Belgaum- Dist"
+  },
+  "E208 - Achutha Institute of Technology": {
+    "cet_code": "E208",
+    "full_name": "Achutha Institute of Technology Bangalore"
+  },
+  "E209 - Jyothi Institute of Technology": {
+    "cet_code": "E209",
+    "full_name": "Jyothi Institute of Technology Bangalore"
+  },
+  "E210 - G Madegowda Institute of Technology Maddur Taluk": {
+    "cet_code": "E210",
+    "full_name": "G Madegowda Institute of Technology Maddur Taluk, Mandya DIST"
+  },
+  "E211 - Jain Institute of Technology Cross": {
+    "cet_code": "E211",
+    "full_name": "Jain Institute of Technology Cross,Davanagere"
+  },
+  "E212 - Dayananda Sagar Academy of Technology Kanakapur Main Road": {
+    "cet_code": "E212",
+    "full_name": "Dayananda Sagar Academy of Technology Kanakapur Main Road Bangalore"
+  },
+  "E213 - Lingarajappa Engineering College Bidar": {
+    "cet_code": "E213",
+    "full_name": "Lingarajappa Engineering College Bidar"
+  },
+  "E217 - Girijabai Sail Institute of Technology Majali Village Karwar": {
+    "cet_code": "E217",
+    "full_name": "Girijabai Sail Institute of Technology Majali Village Karwar"
+  },
+  "E219 - Mangalore Marine College and Technology": {
+    "cet_code": "E219",
+    "full_name": "Mangalore Marine College and Technology Mangalore"
+  },
+  "E220 - Alliance University": {
+    "cet_code": "E220",
+    "full_name": "Alliance University Bangalore"
+  },
+  "E221 - Biluru Gurubasava Mahaswamiji Institute of Technology Mudhol,Bagalkot- Dist": {
+    "cet_code": "E221",
+    "full_name": "Biluru Gurubasava Mahaswamiji Institute of Technology Mudhol,Bagalkot- Dist"
+  },
+  "E222 - Cambridge Institutute of Technology-North Campus Devanahalli(TQ)": {
+    "cet_code": "E222",
+    "full_name": "Cambridge Institutute of Technology-North Campus Devanahalli(TQ),Bangalore(R)"
+  },
+  "E227 - Cauvery Institute of Technology Mandya tq": {
+    "cet_code": "E227",
+    "full_name": "Cauvery Institute of Technology Mandya tq"
+  },
+  "E232 - Reva University": {
+    "cet_code": "E232",
+    "full_name": "Reva University Bangalore"
+  },
+  "E235 - M.S. Ramaiah University of Applied Sciences": {
+    "cet_code": "E235",
+    "full_name": "M.S. Ramaiah University of Applied Sciences Bangalore"
+  },
+  "E237 - Presidency University Yelahanka": {
+    "cet_code": "E237",
+    "full_name": "Presidency University Yelahanka, Bangalore"
+  },
+  "E238 - Mysuru Royal Institute of Technology Mandya (D)": {
+    "cet_code": "E238",
+    "full_name": "Mysuru Royal Institute of Technology Mandya (D)"
+  },
+  "E239 - East West College of Engineering Yelahanka New Town": {
+    "cet_code": "E239",
+    "full_name": "East West College of Engineering Yelahanka New Town, Bangalore"
+  },
+  "E240 - Dayananda Sagar University Hosur Road": {
+    "cet_code": "E240",
+    "full_name": "Dayananda Sagar University Hosur Road, Bangalore"
+  },
+  "E241 - KLE Technological University(Formerly BVBCET) Dharward Dist": {
+    "cet_code": "E241",
+    "full_name": "KLE Technological University(Formerly BVBCET) Dharward Dist"
+  },
+  "E252 - Mysore College of Engineering and Management": {
+    "cet_code": "E252",
+    "full_name": "Mysore College of Engineering and Management Mysore"
+  },
+  "E254 - A J Institute Of Engineering And Technology": {
+    "cet_code": "E254",
+    "full_name": "A J Institute Of Engineering And Technology MANGALORE"
+  },
+  "E255 - Gitam School Of Technology BANGALORE RURAL DIST": {
+    "cet_code": "E255",
+    "full_name": "Gitam School Of Technology BANGALORE RURAL DIST"
+  },
+  "E257 - CMR University CHAGALATTI": {
+    "cet_code": "E257",
+    "full_name": "CMR University CHAGALATTI, BANGALORE"
+  },
+  "E258 - Maharaja Institute of Technology THANDAVAPURA,": {
+    "cet_code": "E258",
+    "full_name": "Maharaja Institute of Technology THANDAVAPURA, MYSORE"
+  },
+  "E260 - Nitte School of Architecture YELAHANKA": {
+    "cet_code": "E260",
+    "full_name": "Nitte School of Architecture YELAHANKA BANGALORE"
+  },
+  "E263 - School of Planning and Architecture": {
+    "cet_code": "E263",
+    "full_name": "School of Planning and Architecture Mysore"
+  },
+  "E265 - Jain College of Engineering and Technology Hubballi": {
+    "cet_code": "E265",
+    "full_name": "Jain College of Engineering and Technology Hubballi"
+  },
+  "E269 - Jain College of Engineering and Research Udyambhag,": {
+    "cet_code": "E269",
+    "full_name": "Jain College of Engineering and Research Udyambhag, Belgaum"
+  },
+  "E272 - Government Engineering College Talakal": {
+    "cet_code": "E272",
+    "full_name": "Government Engineering College Talakal,Koppal"
+  },
+  "E273 - Government Engineering College Viprasainagar, Gangavathi": {
+    "cet_code": "E273",
+    "full_name": "Government Engineering College Viprasainagar, Gangavathi"
+  },
+  "E274 - Government Engineering College Moselehosahalli": {
+    "cet_code": "E274",
+    "full_name": "Government Engineering College Moselehosahalli,Hassan"
+  },
+  "E275 - R V Institute of Technology and Management JP Nagar": {
+    "cet_code": "E275",
+    "full_name": "R V Institute of Technology and Management JP Nagar, Bengaluru"
+  },
+  "E278 - Visvesvaraya Technological University Muddenahalli,Chickkaballapur": {
+    "cet_code": "E278",
+    "full_name": "Visvesvaraya Technological University Muddenahalli,Chickkaballapur"
+  },
+  "E279 - Visvesvaraya Technological University": {
+    "cet_code": "E279",
+    "full_name": "Visvesvaraya Technological University Belgaum"
+  },
+  "E281 - Government Engineering College Challakere": {
+    "cet_code": "E281",
+    "full_name": "Government Engineering College Challakere,Chitradurga"
+  },
+  "E283 - University of Mysore": {
+    "cet_code": "E283",
+    "full_name": "University of Mysore Mysore"
+  },
+  "E284 - Sri Jayachamarajendra College of Engineering(Const. of JSS Univ.)": {
+    "cet_code": "E284",
+    "full_name": "Sri Jayachamarajendra College of Engineering(Const. of JSS Univ.) Mysore"
+  },
+  "E022 - The National Institute of Engineering(SOUTH CAMPUS)": {
+    "cet_code": "E022",
+    "full_name": "The National Institute of Engineering(SOUTH CAMPUS) Mysore"
+  },
+  "E056 - The National Institute of Engineering(SOUTH CAMPUS)": {
+    "cet_code": "E056",
+    "full_name": "The National Institute of Engineering(SOUTH CAMPUS) Mysore"
+  },
+  "E063 - Sri Jagadguru Murugharajendra University (Formerly SJMIT) Chitradurga": {
+    "cet_code": "E063",
+    "full_name": "Sri Jagadguru Murugharajendra University (Formerly SJMIT) Chitradurga"
+  },
+  "E178 - The National Institute of Engineering(NORTH CAMPUS)": {
+    "cet_code": "E178",
+    "full_name": "The National Institute of Engineering(NORTH CAMPUS) Mysore"
+  },
+  "E285 - R V University": {
+    "cet_code": "E285",
+    "full_name": "R V University Bangalore"
+  },
+  "E286 - BGS College of Engineering and Technology Mahalakshmipuram": {
+    "cet_code": "E286",
+    "full_name": "BGS College of Engineering and Technology Mahalakshmipuram,Bangalore"
+  },
+  "E287 - Vidyashilp University": {
+    "cet_code": "E287",
+    "full_name": "Vidyashilp University Bangalore"
+  },
+  "E288 - Garden City University": {
+    "cet_code": "E288",
+    "full_name": "Garden City University Bangalore"
+  },
+  "E289 - Visvesvaraya Technological University - Regional Center Rajapur,Kalburgi": {
+    "cet_code": "E289",
+    "full_name": "Visvesvaraya Technological University - Regional Center Rajapur,Kalburgi"
+  },
+  "E290 - Visvesvaraya Technological University - Regional Center": {
+    "cet_code": "E290",
+    "full_name": "Visvesvaraya Technological University - Regional Center Mysore"
+  },
+  "E291 - Government Engineering College Naragund": {
+    "cet_code": "E291",
+    "full_name": "Government Engineering College Naragund,Gadag"
+  },
+  "E292 - Government Engineering College Bidar": {
+    "cet_code": "E292",
+    "full_name": "Government Engineering College Bidar"
+  },
+  "E063 - SJM Institute of Techonology Chitradurga": {
+    "cet_code": "E063",
+    "full_name": "SJM Institute of Techonology Chitradurga"
+  },
+  "E225 - S.J.B School of Architecture and Planning": {
+    "cet_code": "E225",
+    "full_name": "S.J.B School of Architecture and Planning Bangalore"
+  },
+  "E264 - Basava Engineering School of Technology Zalaki, Vijaypura Dist.": {
+    "cet_code": "E264",
+    "full_name": "Basava Engineering School of Technology Zalaki, Vijaypura Dist."
+  },
+  "E297 - ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY YELAHANKA": {
+    "cet_code": "E297",
+    "full_name": "ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY YELAHANKA, BANGALORE"
+  },
+  "E300 - AKASH INTITUTE OF ENGINEERING AND TECHNOLOGY KASABA HOBLI": {
+    "cet_code": "E300",
+    "full_name": "AKASH INTITUTE OF ENGINEERING AND TECHNOLOGY KASABA HOBLI, BANGALORE RURAL"
+  },
+  "E301 - KISHKINDA UNIVERSITY BELLARI": {
+    "cet_code": "E301",
+    "full_name": "KISHKINDA UNIVERSITY BELLARI"
+  },
+  "E303 - G M UNIVERSITY KARUR VILLAGE,": {
+    "cet_code": "E303",
+    "full_name": "G M UNIVERSITY KARUR VILLAGE, DAVANGERE"
+  },
+  "E066 - University B.D.T. college of Engineering, (H.GOV)": {
+    "cet_code": "E066",
+    "full_name": "University B.D.T. college of Engineering, (H.GOV) Davangere"
+  },
+  "E108 - Sapthagiri NPS College of Engineering": {
+    "cet_code": "E108",
+    "full_name": "Sapthagiri NPS College of Engineering Bangalore"
+  },
+  "E147 - T John Institute of Technology": {
+    "cet_code": "E147",
+    "full_name": "T John Institute of Technology Bangalore"
+  },
+  "E190 - Acharya N R V School of Architecture Hesarghatta Main Road Banglore": {
+    "cet_code": "E190",
+    "full_name": "Acharya N R V School of Architecture Hesarghatta Main Road Banglore"
+  },
+  "E215 - B M S School of Architecture Yalahanka": {
+    "cet_code": "E215",
+    "full_name": "B M S School of Architecture Yalahanka, Bangalore"
+  },
+  "E224 - Impact School of Architecture": {
+    "cet_code": "E224",
+    "full_name": "Impact School of Architecture Bangalore"
+  },
+  "E228 - Mysore School of Architecture Lingabodi,Mysore": {
+    "cet_code": "E228",
+    "full_name": "Mysore School of Architecture Lingabodi,Mysore"
+  },
+  "E229 - Gopalan School of Architecture and Planning Whitefield": {
+    "cet_code": "E229",
+    "full_name": "Gopalan School of Architecture and Planning Whitefield , Bangalore"
+  },
+  "E244 - R V College of Architecture Chikkegowdanapally": {
+    "cet_code": "E244",
+    "full_name": "R V College of Architecture Chikkegowdanapally,Bangalore"
+  },
+  "E245 - CMR University School of Architecture": {
+    "cet_code": "E245",
+    "full_name": "CMR University School of Architecture Bangalore"
+  },
+  "E246 - The Oxford School of Architecture": {
+    "cet_code": "E246",
+    "full_name": "The Oxford School of Architecture Bangalore"
+  },
+  "E248 - Wadiyar Centre For Architecture Mysuru": {
+    "cet_code": "E248",
+    "full_name": "Wadiyar Centre For Architecture Mysuru"
+  },
+  "E250 - K S School of Architecture": {
+    "cet_code": "E250",
+    "full_name": "K S School of Architecture Bangalore"
+  },
+  "E255 - Gandhi Institute of Technology and MNGT.,Gitam off Campus BANGALORE RURAL DIST": {
+    "cet_code": "E255",
+    "full_name": "Gandhi Institute of Technology and MNGT.,Gitam off Campus BANGALORE RURAL DIST"
+  },
+  "E256 - Rai Technology University Mallohalli(V),Doddaballapur(T)": {
+    "cet_code": "E256",
+    "full_name": "Rai Technology University Mallohalli(V),Doddaballapur(T)"
+  },
+  "E259 - Sir M.V School of Architecture Hunasamaranahalli": {
+    "cet_code": "E259",
+    "full_name": "Sir M.V School of Architecture Hunasamaranahalli, Bangalore"
+  },
+  "E266 - BMS College of Architecture BMSCE Campus": {
+    "cet_code": "E266",
+    "full_name": "BMS College of Architecture BMSCE Campus,Bangalore"
+  },
+  "E271 - East West School of Architecture Near Anjanagar": {
+    "cet_code": "E271",
+    "full_name": "East West School of Architecture Near Anjanagar,Bangalore"
+  },
+  "E276 - Dayananda Sagar College of Architecture": {
+    "cet_code": "E276",
+    "full_name": "Dayananda Sagar College of Architecture Bangalore"
+  },
+  "E283 - University of Mysore HUNSUR ROAD,": {
+    "cet_code": "E283",
+    "full_name": "University of Mysore HUNSUR ROAD, MYSORE"
+  },
+  "E293 - Poojya Dr.Shivakumar Swamiji School of Architecture": {
+    "cet_code": "E293",
+    "full_name": "Poojya Dr.Shivakumar Swamiji School of Architecture Gulbarga"
+  },
+  "E294 - School of Architecture, Srinivas Institute of Technology Mangalore.": {
+    "cet_code": "E294",
+    "full_name": "School of Architecture, Srinivas Institute of Technology Mangalore."
+  },
+  "E295 - School of Architecture,K.L`S Gogte Inst. of Technology, Belgaum": {
+    "cet_code": "E295",
+    "full_name": "School of Architecture,K.L`S Gogte Inst. of Technology, Belgaum Belgaum"
+  },
+  "E296 - School of Architecture,Siddaganga Institute of Technology": {
+    "cet_code": "E296",
+    "full_name": "School of Architecture,Siddaganga Institute of Technology, Tumkur Tumkur"
+  },
+  "E298 - School of Architecture,M S Ramaiah Inst. of Technology": {
+    "cet_code": "E298",
+    "full_name": "School of Architecture,M S Ramaiah Inst. of Technology, Bangalore Bangalore"
+  },
+  "E302 - AMITY UNIVERSITY DEVANAHALLI ,BANAGLORE": {
+    "cet_code": "E302",
+    "full_name": "AMITY UNIVERSITY DEVANAHALLI ,BANAGLORE"
+  },
+  "E304 - BHARATESH INSTITUTE OF TECHNOLOGY BASAVANKUDACHI EXTN": {
+    "cet_code": "E304",
+    "full_name": "BHARATESH INSTITUTE OF TECHNOLOGY BASAVANKUDACHI EXTN, BELAGAVI"
+  },
+  "E305 - DR H N NATIONAL COLLEGE OF ENGINEERING": {
+    "cet_code": "E305",
+    "full_name": "DR H N NATIONAL COLLEGE OF ENGINEERING BANGALORE"
+  },
+  "E306 - THE CHANAKYA UNIVERSITY HARALUR ROAD DEVANHALLI": {
+    "cet_code": "E306",
+    "full_name": "THE CHANAKYA UNIVERSITY HARALUR ROAD DEVANHALLI"
+  },
+  "E307 - SESHADRIPURAM INSTITUTE OF TECHNOLOGY": {
+    "cet_code": "E307",
+    "full_name": "SESHADRIPURAM INSTITUTE OF TECHNOLOGY MYSORE"
+  },
+  "E308 - CONSTITUENT COLLEGE OF VTU CHINTAMANI, CHIKABALLPURA": {
+    "cet_code": "E308",
+    "full_name": "CONSTITUENT COLLEGE OF VTU CHINTAMANI, CHIKABALLPURA"
+  },
+  "E309 - CONSTITUENT COLLEGE OF VTU, (H.GOV) CHINTAMANI, CHIKABALLPURA": {
+    "cet_code": "E309",
+    "full_name": "CONSTITUENT COLLEGE OF VTU, (H.GOV) CHINTAMANI, CHIKABALLPURA"
+  }
+}
